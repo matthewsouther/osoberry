@@ -19,5 +19,14 @@ collections:
         name: home
         file: index.md
         fields:
-          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - label: About
+        name: about
+        file: about.md
+        fields:
+          - { label: Body, name: body, widget: markdown }
+      - label: Contact
+        name: contact
+        file: contact.md
+        fields:
           - { label: Body, name: body, widget: markdown }
