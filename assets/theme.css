@@ -1,0 +1,120 @@
+html {
+  padding: 0 1rem;
+}
+
+body {
+  margin: auto;
+  max-width: 800px;
+  font-family: "Comfortaa", sans-serif;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+header nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: 700;
+}
+
+header nav ul li a {
+  text-decoration: none;
+}
+
+/* Don't use a different color for visited links */
+header nav ul li a:visited {
+  color: inherit;
+}
+
+header nav ul li a:hover {
+  color: darkolivegreen;
+}
+
+header nav ul li a:active {
+  background-color: yellow;
+}
+
+/* Hiding the menu icon for the desktop view */
+header .menu-icon {
+  display: none;
+  border: none;
+  background-color: transparent;
+}
+
+/* Hiding the checkbox default styling */
+header .menu-icon input[type="checkbox"] {
+  appearance: none;
+}
+
+/* When the viewport is less than 600px... */
+@media screen and (max-width: 720px) {
+  header {
+    display: block;
+  }
+
+  header h1 {
+    display: flex;
+    flex: 1;
+  }
+
+  header h1 a {
+    display: flex;
+  }
+
+  header h1 a img {
+    object-fit: cover;
+    width: 100%;
+  }
+
+  header button {
+    flex: 0;
+  }
+
+  /* Hiding the nav links with height and overflow */
+  header nav {
+    height: 0;
+    overflow: hidden;
+    flex-direction: column;
+    transition: all 0.3s ease-in-out;
+  }
+
+  header nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header .inner {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  /* Making the menu button visible */
+  header .menu-icon {
+    display: block;
+  }
+
+  header .menu-icon .close {
+    display: none;
+  }
+
+  header:has(.menu-icon input[type="checkbox"]:checked) nav {
+    margin-top: 1rem;
+    height: 100px;
+  }
+
+  header:has(.menu-icon input[type="checkbox"]:checked) .menu {
+    display: none;
+  }
+
+  header:has(.menu-icon input[type="checkbox"]:checked) .close {
+    display: inline-block;
+  }
+}

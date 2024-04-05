@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osoberry School: {{ title }}</title>
+    <meta name="description" content="{{ description }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/theme.css" />
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <h1 class="home">
+          <a href="/"><img src="/assets/img/osoberry_logo_400.png"></a>
+        </h1>
+        <button class="menu-icon">
+          <label for="expandMenu">
+            <img class="menu" src="/assets/img/menu.svg" />
+            <img class="close" src="/assets/img/close.svg" />
+          </label>
+          <input type="checkbox" id="expandMenu" />
+        </button>
+      </div>
+      <nav>
+        {{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
+      </nav>
+    </header>
+
+    <main>{{ content }}</main>
+
+    <footer>&copy; 2024 Osoberry School, LLC</footer>
+  </body>
+</html>
