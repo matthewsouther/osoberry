@@ -9,7 +9,7 @@ media_folder: assets/uploads
 public_folder: assets/uploads
 site_url: https://osoberry.school
 display_url: https://osoberry.school
-logo_url: https://osoberry.school/assets/images/osoberry_logo_400.png
+logo_url: https://osoberry.school/assets/img/osoberry_logo_400.png
 collections:
   - name: pages
     label: Pages
