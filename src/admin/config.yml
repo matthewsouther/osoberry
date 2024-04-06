@@ -15,31 +15,6 @@ collections:
     label: Pages
     label_singular: Page
     folder: src
-    create: true
+    create: false
     fields:
-      - { label: Title, name: title, widget: string }
-      - {
-          label: Layout,
-          name: layout,
-          widget: select,
-          options: ["base"],
-          default: base,
-        }
-      - {
-          label: "Navigation: Collection",
-          name: tags,
-          widget: select,
-          options: ["", "topnav"],
-          default: "",
-        }
-      - {
-          label: "Navigation: Key",
-          name: eleventyNavigation.key,
-          widget: string,
-        }
-      - {
-          label: "Navigation: Order",
-          name: eleventyNavigation.order,
-          widget: number,
-        }
       - { label: Body, name: body, widget: markdown }
