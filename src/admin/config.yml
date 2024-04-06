@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  repo: matthewsouther/osoberry
+  branch: main
+  api_root: https://api.github.com
+  base_url: https://api.netlify.com
+publish_mode: simple
+media_folder: src/assets/uploads
+public_folder: src/assets/uploads
+site_url: https://osoberry.school
+display_url: https://osoberry.school
+logo_url: https://osoberry.school/assets/img/osoberry_logo_400.png
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: src
+    create: true
+    fields:
+      - { label: Title, name: title, widget: string }
+      - {
+          label: Layout,
+          name: layout,
+          widget: select,
+          options: ["base"],
+          default: base,
+        }
+      - {
+          label: "Navigation: Collection",
+          name: tags,
+          widget: select,
+          options: ["", "topnav"],
+          default: "",
+        }
+      - {
+          label: "Navigation: Key",
+          name: eleventyNavigation.key,
+          widget: string,
+        }
+      - {
+          label: "Navigation: Order",
+          name: eleventyNavigation.order,
+          widget: number,
+        }
+      - { label: Body, name: body, widget: markdown }
