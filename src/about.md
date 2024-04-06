@@ -7,7 +7,7 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community. 
+#### Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community. 
 
 ## How We Get There
 
