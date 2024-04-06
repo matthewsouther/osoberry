@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Curriculum
   order: 3
 ---
-## *Curriculum* 
+## Curriculum
 
 Teachers at Osoberry School know best practices in learning and utilize hands-on, experiential activities and project based units of study. We not only teach foundational academics but we teach kids how to learn and nurture their innate curiosity and joy.
 
