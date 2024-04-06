@@ -7,7 +7,6 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-
 # Osoberry School Philosophy
 
 Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community.
@@ -50,17 +49,17 @@ When kids are given respect as unique and important beings, they are able to sho
 
 #### At Osoberry school, teachers show respect by:
 
-- Being prepared and experts in child development
-- Listening and adjusting as needed
-- Holding boundaries for the group and learning experience
-- Leading with humor, curiosity, and warmth
+* Being prepared and experts in child development
+* Listening and adjusting as needed
+* Holding boundaries for the group and learning experience
+* Leading with humor, curiosity, and warmth
 
 #### Kids show respect by:
 
-- Using skills in turn-taking
-- Participating in activities
-- Showing up to solve conflicts
-- Earnestly trying their best
+* Using skills in turn-taking
+* Participating in activities
+* Showing up to solve conflicts
+* Earnestly trying their best
 
 ## For the Teachers
 
@@ -100,14 +99,14 @@ The stress and cost of orchestrating summer camps, wondering if you’ll get in 
 
 # About the Teachers
 
-## Emily Souther
+### Emily Souther, Founder + Lead Instructor 
 
 ![](/assets/uploads/emilypic.jpeg)
 
-- Certified K-6 Teacher
-- MA in Curriculum and Instruction
-- 15 years classroom teaching experience
-- Parent of 2 joyful learners
+* Certified K-6 Teacher
+* MA in Curriculum and Instruction
+* 15 years classroom teaching experience
+* Parent of 2 joyful learners
 
 I am a person with many passions and a deep enthusiasm for life and learning. I explore the world through music, art, literature, science, and the outdoors, but my deepest passion--and truly my life’s work--is working with children.
 
