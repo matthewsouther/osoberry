@@ -34,7 +34,7 @@ We will be opening our school with one class of mixed 3rd/4th graders. The follo
 
 ### Tuition 
 
-As we increase enrollment we hope to have scholarships available for those who need it. We do not currently have financial aid available 
+As we increase enrollment we hope to have scholarships available for those who need it. We do not currently have financial aid available.
 
 * **5 days per week:** $1,300/month for 11 months; includes all supplies and aftercare
 * **Forest Fridays only:** $300/month for 11 months; hours run 8:30-5pm and include aftercare on site
