@@ -7,7 +7,7 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-# Osoberry School Philosophy
+## *Osoberry School Philosophy*
 
 Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community.
 
@@ -15,7 +15,7 @@ Osoberry School is founded on the mission to provide meaning and wellbeing not j
 
 # How We Get There
 
-## For the Kids
+## *For the Kids*
 
 ### Deep, Meaningful Academics
 
@@ -61,7 +61,7 @@ When kids are given respect as unique and important beings, they are able to sho
 * Showing up to solve conflicts
 * Earnestly trying their best
 
-## For the Teachers
+## *For the Teachers*
 
 ### Time to plan
 
@@ -85,7 +85,7 @@ We maintain small class sizes (maximum 14 students) so teachers can have what th
 
 Just as we nurture the social bonds between our students, Osoberry School dedicates time and space to its teachers to enjoy each other and feel connected. When teachers join our school they join a community that likes to spend time together.
 
-## For the Families
+## *For the Families*
 
 ### Hours that support time to work
 
@@ -99,7 +99,7 @@ The stress and cost of orchestrating summer camps, wondering if you’ll get in 
 
 # About the Teachers
 
-### Emily Souther, Founder + Lead Instructor 
+### Emily Souther, Founder + Lead Instructor
 
 ![](/assets/uploads/emilypic.jpeg)
 
