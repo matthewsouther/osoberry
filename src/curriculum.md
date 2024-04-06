@@ -8,4 +8,5 @@ eleventyNavigation:
   order: 3
 ---
 
-More about the curriculum
+
+![](assets/uploads/screen-shot-2024-04-06-at-1.44.31-pm.png)
