@@ -7,9 +7,9 @@ eleventyNavigation:
   key: Apply
   order: 4
 ---
-# Application Process
+## *Application Process*
 
-## Start something new with us!
+### Start something new with us!
 
 ![](/assets/uploads/dice.jpg)
 
