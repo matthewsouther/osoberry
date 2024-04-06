@@ -7,9 +7,13 @@ eleventyNavigation:
   key: About
   order: 2
 ---
-#### Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community. 
+# Osoberry School Philosophy 
 
-## How We Get There
+Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community. 
+
+![](src/assets/uploads/tulipart.jpg)
+
+# How We Get There
 
 
 
@@ -39,7 +43,7 @@ Play is a fundamental part of being a kid and supports development in creativity
 
 Kids at Osoberry School are given time and space to explore personal interests during Choice Time. This is when you’ll find kids experimenting with an art technique, tapping out a song on the keyboard, engineering a house for their stuffed animals, and so much more.  
 
-
+![](src/assets/uploads/birdsnest.jpeg)
 
 ### Nature
 
@@ -91,7 +95,7 @@ Teachers at Osoberry School are given ample time throughout the week to do the i
 
 Just like kids need regular breaks to recharge, so do grown-ups. Teachers at Osoberry School have regular breaks throughout the day to take care of themselves and recharge. 
 
-
+![](src/assets/uploads/light2.jpeg)
 
 ### Respect and esteem 
 
@@ -118,6 +122,8 @@ Just as we nurture the social bonds between our students, Osoberry School dedica
 ### Hours that support time to work 
 
 Traditional school hours are still set up to require one parent to sacrifice their career in favor of being present during after school hours or manage too many spinning plates of care from 3-5pm. At Osoberry School, after school enrichment is included with tuition and provides kids with a fun, safe environment to spend their afternoons. Providing this minimizes the hectic transition between school hours and aftercare. Kids get to spend their afternoons with the same people and in the same environment they enjoy during the day. 
+
+![](src/assets/uploads/balancingact.jpeg)
 
 ### Year-round schooling and enrichment
 
