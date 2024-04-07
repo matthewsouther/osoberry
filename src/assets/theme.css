@@ -62,6 +62,10 @@ p {
   text-align: justify;
 }
 
+p img {
+  max-width: 100%;
+}
+
 ul,
 ol {
   line-height: 150%;
@@ -71,7 +75,7 @@ footer p {
   text-align: center;
 }
 
-/* When the viewport is less than 600px... */
+/* On smaller screens... */
 @media screen and (max-width: 820px) {
   header {
     display: block;

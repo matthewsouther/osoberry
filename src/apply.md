@@ -7,9 +7,10 @@ eleventyNavigation:
   key: Apply
   order: 4
 ---
+
 ## Application Process
 
-### *Start something new with us!*
+### _Start something new with us!_
 
 ![](/assets/uploads/dice.jpg)
 
@@ -26,15 +27,19 @@ We will be opening our school in fall 2024 with one class of mixed 3rd/4th grade
 
 #### Kids who are successful at Osoberry School are:
 
-* Curious and excited to learn
-* Self-directed and also able to follow directions
-* Want to be part of a strong community
-* Enjoy spending time outside in all weather
-* Open to feedback and pushing through challenges
+- Curious and excited to learn
+- Self-directed and also able to follow directions
+- Want to be part of a strong community
+- Enjoy spending time outside in all weather
+- Open to feedback and pushing through challenges
 
 ### Tuition
 
 As we increase enrollment we hope to have scholarships available for those who need it. We do not currently have financial aid available.
 
-* **5 days per week:** $1,300/month for 11 months; includes all supplies and aftercare
-* **Forest Fridays only:** $300/month for 11 months; hours run 8:30-5pm and include aftercare on site
+- **5 days per week:** $1,300/month for 11 months; includes all supplies and aftercare
+- **Forest Fridays only:** $300/month for 11 months; hours run 8:30-5pm and include aftercare on site
+
+## Inquire now!
+
+{% include "components/contactForm.html" %}
