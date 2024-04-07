@@ -33,7 +33,7 @@ Play is a fundamental part of being a kid and supports development in creativity
 
 Kids at Osoberry School are given time and space to explore personal interests during Choice Time. This is when you’ll find kids experimenting with an art technique, tapping out a song on the keyboard, engineering a house for their stuffed animals, and so much more.
 
-![](/assets/uploads/birdsnest.jpeg)
+![](/assets/uploads/untitled-design-21-.png)
 
 ### Nature
 
