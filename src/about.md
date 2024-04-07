@@ -71,7 +71,7 @@ Teachers at Osoberry School are given ample time throughout the week to do the i
 
 Just like kids need regular breaks to recharge, so do grown-ups. Teachers at Osoberry School have regular breaks throughout the day to take care of themselves and recharge.
 
-![](/assets/uploads/untitled-design-22-.png)
+![](/assets/uploads/untitled-design-23-.png)
 
 ### Respect and esteem
 
