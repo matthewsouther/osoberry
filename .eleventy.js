@@ -4,7 +4,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPassthroughCopy("src/admin");
   eleventyConfig.addPassthroughCopy("src/assets");
-  eleventyConfig.addLayoutAlias("base", "layouts/base.liquid");
+  eleventyConfig.addLayoutAlias("base", "layouts/base.html");
 
   return { dir: { input: "src", output: "_site" } };
 };
