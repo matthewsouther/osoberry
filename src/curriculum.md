@@ -17,7 +17,7 @@ Each class follows a 2 year cycle of learning as they loop with their teacher. M
 
 
 
-![](/assets/uploads/screen-shot-2024-04-18-at-8.11.27-am.png)
+![](/assets/uploads/screen-shot-2024-04-18-at-3.30.40-pm.png)
 
 ## Curriculum Focus by Class
 
