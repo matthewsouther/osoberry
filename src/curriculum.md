@@ -25,9 +25,9 @@ Each class follows a 2 year cycle of learning as they loop with their teacher. M
 
 In 3rd grade **math** students will focus on:
 
-* Continued practice and fluency with addition & subtraction through 1000
+* Continuing practice and fluency with addition & subtraction through 1000
 * Learning and practicing multiplication 
-* Gain a concrete understanding of division
+* Gaining a concrete understanding of division
 * Work with basic fractions to understand equal parts 
 
 
