@@ -56,3 +56,12 @@ In **Language Arts,** students will focus on:
 * Fluency in writing fictional and personal narrative stories, informational texts, and poetry
 
 We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling ) and teacher created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
+
+
+
+#### 3rd/4th Grade Theme Studies:
+
+|        | Fall                          | Winter                              | Spring                  | Summer     |
+| ------ | ----------------------------- | ----------------------------------- | ----------------------- | ---------- |
+| Year 1 | Schoolyard Ecology            | Mapping Our City & Portland History | First Nations of Oregon | Class Play |
+| Year 2 | Greek Myths & Fantasy Animals | Electricity, Oregon History         | Terrarium Habitats      | Class Play |
