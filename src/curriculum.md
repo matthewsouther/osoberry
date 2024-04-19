@@ -13,7 +13,7 @@ Teachers at Osoberry School know best practices in learning and utilize hands-on
 
 Each class follows a 2 year cycle of learning as they loop with their teacher. Math and Language Arts are taught in small groups based on skill development. By working in mixed-age classrooms, students are able to benefit from the experience of being a younger mentee and then an older mentor.
 
-|             | Monday                    | Tuesday                   | Wednesday                 | Thursday                  | Friday                  |
+|             | Monday                    | Tuesday                   | Wednesday                 | Thursday                  | Forest Friday           |
 | ----------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------- |
 | 8-8:30      | Arrive & Explore          | Arrive & Explore          | Arrive & Explore          | Arrive & Explore          | Arrive & Explore        |
 | 9-9:30      | Morning Meeting           | Morning Meeting           | Morning Meeting           | Morning Meeting           | Morning Meeting         |
@@ -22,7 +22,7 @@ Each class follows a 2 year cycle of learning as they loop with their teacher. M
 | 10:50-11:50 | Split Math/ Language Arts | Split Math/ Language Arts | Split Math/ Language Arts | Split Math/ Language Arts | Walk or Drive to Park   |
 | 11:50-1     | Lunch/ Walk to Park       | Lunch/ Walk to Park       | Lunch/ Walk to Park       | Lunch/ Walk to Park       | Nature Exploration      |
 | 1-1:30      | DEAR                      | Read & Draw               | DEAR                      | Read & Draw               | Nature Exploration      |
-| 1:30-2:30   | Science                   | Social Studies            | Visual Art                | Performing Art            | Walk back to School     |
+| 1:30-2:30   | Theme Study               | Theme Study               | Theme Study               | Theme Study               | Walk back to School     |
 | 2:30-3      | Closing Circle            | Closing Circle            | Closing Circle            | Closing Circle            | Closing Circle          |
 | 3-5         | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time |
 
