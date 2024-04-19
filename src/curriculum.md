@@ -13,6 +13,8 @@ Teachers at Osoberry School know best practices in learning and utilize hands-on
 
 Each class follows a 2 year cycle of learning as they loop with their teacher. Math and Language Arts are taught in small groups based on skill development. By working in mixed-age classrooms, students are able to benefit from the experience of being a younger mentee and then an older mentor.
 
+Sample Schedule: 
+
 |             | Monday                    | Tuesday                   | Wednesday                 | Thursday                  | Forest Friday           |
 | ----------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ----------------------- |
 | 8-8:30      | Arrive & Explore          | Arrive & Explore          | Arrive & Explore          | Arrive & Explore          | Arrive & Explore        |
