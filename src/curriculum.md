@@ -63,6 +63,10 @@ We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Wri
 
 #### 3rd/4th Grade Theme Studies:
 
+Year 1: Schoolyard Ecology, Mapping our City, Portland History, First Nations of Oregon, Class Play 
+
+Year 2: Greek Myths, Fantasy Animals, Electricity, Oregon History, Terrarium Habitats, Class Play 
+
 |        | Fall                          | Winter                              | Spring                  | Summer     |
 | ------ | ----------------------------- | ----------------------------------- | ----------------------- | ---------- |
 | Year 1 | Schoolyard Ecology            | Mapping Our City & Portland History | First Nations of Oregon | Class Play |
