@@ -37,7 +37,7 @@ We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the 
 In **1st grade/2nd grade**, students will focus on: 
 
 * Building a concrete and flexible understanding of numbers
-* Develop a playful ease with addition & subtraction within 100 and then 1000 
+* Developing a playful ease with addition & subtraction within 100 and then 1000 
 * Building with and talking about shapes
 * Using patterns in place value
 * Using data to describe and wonder about the world
