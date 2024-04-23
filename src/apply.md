@@ -22,7 +22,7 @@ In Fall 2025, we will have two classes: 1st/2nd grade and 3rd-5th grade. Our thi
 #### Application Process:
 
 1. Schedule a call or in-person meeting with Emily Souther, the director. This is an adults-only conversation and is a chance to learn more about the program and ask questions.
-2. Complete the application.
+2. Complete the [application.](https://forms.gle/YPW8pkDc4gxgxHMx8)
 3. Visit in-person with your child for an informal interview with the director. This is a chance to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community.
 4. We will contact you within 1-2 weeks regarding acceptance and you will have 3 days to pay a $200 deposit to hold your spot.
 
@@ -30,7 +30,7 @@ In Fall 2025, we will have two classes: 1st/2nd grade and 3rd-5th grade. Our thi
 
 * Curious and excited to learn
 * Self-directed 
-* Have age appropriate skills in self regulation 
+* Use age appropriate skills in self regulation 
 * Want to be part of a strong community
 * Enjoy spending time outside in all weather
 * Open to feedback and pushing through challenges
