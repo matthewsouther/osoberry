@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Curriculum
   order: 3
 ---
-## How We Teach and Learn
+# How We Teach and Learn
 
 Teachers at Osoberry School know best practices in teaching and utilize hands-on, experiential activities and project based units of study. We not only teach foundational academics but we teach kids how to learn and nurture their innate curiosity and joy.
 
@@ -28,38 +28,81 @@ Sample Schedule:
 | 2:30-3      | Closing Circle            | Closing Circle            | Closing Circle            | Closing Circle            | Closing Circle          |
 | 3-5         | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time   | Aftercare + Choice Time |
 
-## Curriculum Focus by Class
+# Curriculum Focus by Subject
 
-***3rd/4th grade***
+## Math
 
-In 3rd grade, **math** students will focus on:
+We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts. Whenever possible we integrate art into our math study to connect with the creative, beautiful side of the subject. 
+
+In **1st grade**, students will focus on: 
+
+* Building with and talking about shapes
+* Tens and ones are useful ways to organize
+* Using data to describe and wonder about the world
+* Equal means same
+* Building with numbers within 20
+* Using place value to add and subtract
+
+
+
+In **2nd grade**, students will focus on:
+
+* Partitioning shapes into equal parts
+* Making and using equal groups
+* Understanding 100
+* Composing and decomposing numbers
+* Using patterns in place value
+* Measurement in time and space
+
+
+
+In **3rd grade**, students will focus on:
 
 * Continuing practice and fluency with addition & subtraction through 1000
 * Learning and practicing multiplication
 * Gaining a concrete understanding of division
 * Work with basic fractions to understand equal parts
 
-In 4th grade, **math** students will focus on:
+
+
+In **4th grade**, students will focus on:
 
 * Mastery of multiplication/division in useful situations
 * Play and practice with fractions including mixed fractions
 * Introduction to decimals
 * Using operations flexibly
 * Building and designing with shapes and angles
+*
 
-We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts.
+## Language Arts
 
-In **Language Arts,** students will focus on:
+We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling ) and teacher created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
+
+
+
+In **1st/2nd grade**, students will focus on: 
+
+* Reading for joy
+* Comprehension and discussion of read aloud texts
+* Exposure to a variety of texts including non-fiction, folktales, and poetry
+* Developing and documenting made up stories, how-to books, and expert narratives 
+* Practicing neat, legible printed handwriting 
+
+
+
+In **3rd/4th grade**, students will focus on:
 
 * Reading for joy
 * Reading a variety of texts including non-fiction, fiction, and poetry
 * Developing research skills using printed and online materials
 * Learning and practicing skills for book discussions
 * Fluency in writing fictional and personal narrative stories, informational texts, and poetry
+* Learning and practicing legible cursive script 
 
-We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling ) and teacher created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
 
-Our **Theme Study Projects** include **Science** and **Social Studies** topics and rotate on a 2-year cycle: 
 
-* **Year 1:** Schoolyard Ecology, Mapping our City, Portland History, First Nations of Oregon, Class Musical
-* **Year 2:** Greek Myths, Fantasy Animals, Electricity, Oregon History, Terrarium Habitats, Class Musical
+## Theme Study Projects
+
+Our Theme Study Projects include **Science** and **Social Studies** topics and are highly influenced by class interests. We use a combination of teacher led and student directed investigations to explore our world. We integrate language arts and math into our projects as a space for authentic learning. 
+
+**Example projects include:** Schoolyard ecology, mapping our city & Portland history, crime lab chemistry, First Nations of Oregon, animal reports, and class musicals
