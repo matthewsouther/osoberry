@@ -34,24 +34,15 @@ Sample Schedule:
 
 We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts. Whenever possible we integrate art into our math study to connect with the creative, beautiful side of the subject. 
 
-In **1st grade**, students will focus on: 
+In **1st grade/2nd grade**, students will focus on: 
 
+* Building a concrete and flexible understanding of numbers
+* Develop a playful ease with addition & subtraction within 100 and then 1000 
 * Building with and talking about shapes
-* Tens and ones are useful ways to organize
-* Using data to describe and wonder about the world
-* Equal means same
-* Building with numbers within 20
-* Using place value to add and subtract
-
-
-
-In **2nd grade**, students will focus on:
-
-* Partitioning shapes into equal parts
-* Making and using equal groups
-* Understanding 100
-* Composing and decomposing numbers
 * Using patterns in place value
+* Using data to describe and wonder about the world
+* Making and using equal groups
+* Composing and decomposing numbers
 * Measurement in time and space
 
 
@@ -61,7 +52,7 @@ In **3rd grade**, students will focus on:
 * Continuing practice and fluency with addition & subtraction through 1000
 * Learning and practicing multiplication
 * Gaining a concrete understanding of division
-* Work with basic fractions to understand equal parts
+* Working with basic fractions to understand equal parts
 
 
 
@@ -72,7 +63,8 @@ In **4th grade**, students will focus on:
 * Introduction to decimals
 * Using operations flexibly
 * Building and designing with shapes and angles
-*
+
+
 
 ## Language Arts
 
