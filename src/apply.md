@@ -26,11 +26,13 @@ In Fall 2025, we will have two classes: 1st/2nd grade and 3rd-5th grade. Our thi
 3. Visit in-person with your child for an informal interview with the director. This is a chance to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community.
 4. We will contact you within 1-2 weeks regarding acceptance and you will have 3 days to pay a $200 deposit to hold your spot.
 
+*We value racial, gender, ability, and religious diversity. We fully support LGBTQ students and households. We strive for a diverse student body.*
+
 #### Kids who are successful at Osoberry School are:
 
 * Curious and excited to learn
-* Self-directed 
-* Use age appropriate skills in self regulation 
+* Self-directed and independent
+* Respectful and responsible
 * Want to be part of a strong community
 * Enjoy spending time outside in all weather
 * Open to feedback and pushing through challenges
