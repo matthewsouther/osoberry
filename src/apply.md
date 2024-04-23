@@ -15,7 +15,9 @@ eleventyNavigation:
 
 ### We are currently accepting applications for our first cohort of students.
 
-We will be opening our school in fall 2024 with one class of mixed 3rd/4th graders. The following year we will have two mixed age classes: 1st/2nd grade and 3rd-5th grade. Our third year we will grow to three mixed age classes: 1st/2nd, 3rd/4th, & 5th/6th.
+We will be opening our school in fall 2024 with one class of mixed 1st-4th graders. As soon as we hit 20 enrolled students we will open two separate classes: 1st/2nd grade and 3rd/4th. 
+
+In Fall 2025, we will have two classes: 1st/2nd grade and 3rd-5th grade. Our third year we will grow to three mixed-age classes: 1st/2nd, 3rd/4th, & 5th/6th.
 
 #### Application Process:
 
@@ -27,17 +29,18 @@ We will be opening our school in fall 2024 with one class of mixed 3rd/4th grade
 #### Kids who are successful at Osoberry School are:
 
 * Curious and excited to learn
-* Self-directed and also able to follow directions
+* Self-directed 
+* Have age appropriate skills in self regulation 
 * Want to be part of a strong community
 * Enjoy spending time outside in all weather
 * Open to feedback and pushing through challenges
 
 ### Tuition
 
-As we increase enrollment we hope to have scholarships available for those who need it. We do not currently have financial aid available.
+As we increase enrollment we hope to have scholarships available for those who need it. We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **5 days per week:** $1,300/month for 11 months; includes all supplies and aftercare
-* **Forest Fridays only:** $300/month for 11 months; hours run 8:30-5pm and includes aftercare on site
+* **5 days per week:** $1,400/month for 11 months; includes all supplies and aftercare
+* **Forest Fridays only:** $250/month for 11 months; hours run 8:30-5pm and includes aftercare on site
 
 ## Inquire now!
 
