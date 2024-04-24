@@ -30,7 +30,26 @@
         </button>
       </div>
       <nav>
-        {{ collections.topnav | eleventyNavigation | eleventyNavigationToHtml }}
+        {% assign navPages = collections.all | eleventyNavigation %}
+        <ul>
+          {%- for level1 in navPages %}
+          <li>
+            {% if level1.url %}
+            <a href="{{ level1.url }}">{{ level1.title }}</a>
+            {% else %}
+            <label for="{{ level1.title }}-checkbox">
+              {{ level1.title }}
+            </label>
+            <input type="checkbox" id="{{ level1.title }}-checkbox" />
+            <div class="subnav">
+              {%- for level2 in level1.children %}
+              <a href="{{ level2.url }}">{{ level2.title }}</a>
+              {%- endfor %}
+            </div>
+            {% endif %}
+          </li>
+          {%- endfor %}
+        </ul>
       </nav>
     </header>
 

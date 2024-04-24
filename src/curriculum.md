@@ -4,8 +4,9 @@ layout: base
 eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
+  parent: About
   key: Curriculum
-  order: 3
+  order: 2
 ---
 # How We Teach and Learn
 

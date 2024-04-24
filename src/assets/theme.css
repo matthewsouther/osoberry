@@ -16,26 +16,60 @@ header {
 }
 
 header nav ul {
-  display: flex;
-  gap: 1rem;
   list-style: none;
   text-decoration: none;
   font-size: larger;
   font-weight: 700;
 }
 
-header nav ul li a {
+/* Just the top-level navigation */
+header nav > ul {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+header nav ul li a,
+header nav ul li label {
+  display: flex;
+  align-items: center;
   color: black;
   text-decoration: none;
 }
 
+header nav input[type="checkbox"] {
+  display: none;
+}
+
+/* Parent navigation node -- add icon after */
+header nav ul li:has(> .subnav) > label:after {
+  content: url("./img/expand.svg");
+  display: inline-block;
+}
+
 /* Don't use a different color for visited links */
-header nav ul li a:visited {
+header nav a:visited {
   color: inherit;
 }
 
-header nav ul li a:hover {
+header nav a:hover {
   color: darkolivegreen;
+}
+
+/* Second-level navigation */
+header nav .subnav {
+  display: none;
+  position: absolute;
+  background-color: rgba(245, 245, 220, 0.9);
+  font-size: smaller;
+}
+
+header nav li:has(input[type="checkbox"]:checked) > .subnav {
+  display: grid;
+}
+
+header nav .subnav a {
+  padding: 0.25rem 0.5rem;
 }
 
 /* Hiding the menu icon for the desktop view */
@@ -122,6 +156,20 @@ td {
   header nav ul {
     flex-direction: column;
     align-items: center;
+  }
+
+  header nav ul li {
+    width: 100%;
+  }
+
+  /* Second-level navigation */
+  header nav .subnav {
+    position: relative;
+    width: 100%;
+  }
+
+  header nav li:has(input[type="checkbox"]:checked) > .subnav {
+    display: grid;
   }
 
   header .inner {
