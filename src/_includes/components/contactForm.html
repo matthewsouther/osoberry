@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <!-- HTML file pre-processed by 11ty with Liquid -->
 <style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+  }
+  form {
+    flex-basis: 500px;
+    display: flex;
+    flex-direction: column;
+  }
   form p label {
     display: block;
   }
@@ -8,11 +18,11 @@
     content: " *";
     color: red;
   }
-  form p input[type="text"],
-  input[type="email"],
+  form p input,
   textarea {
-    min-width: 300px;
-    max-width: 100%;
+    padding: 0.5rem;
+    width: 100%;
+    box-sizing: border-box;
   }
   form button {
     background-color: #ffc300;
@@ -50,35 +60,39 @@
     }
   };
 </script>
-<form name="contact" netlify onsubmit="handleSubmit(event)">
-  <p>
-    <label for="name">Your name</label>
-    <input id="name" type="text" name="name" required />
-  </p>
-  <p>
-    <label for="email">Email</label>
-    <input id="email" type="email" name="email" required />
-  </p>
-  <p>
-    <label for="phone">Phone</label>
-    <input
-      type="tel"
-      id="phone"
-      name="phone"
-      placeholder="(555) 555-5555"
-      oninput="onPhoneInput(event)"
-    />
-  </p>
-  <p>
-    <label for="kidsInfo">Name(s) and grade(s) of kid(s)</label>
-    <textarea id="kidsInfo" name="kidsInfo" required></textarea>
-  </p>
-  <p>
-    <label for="comments">Questions/comments</label>
-    <textarea id="comments" name="comments"></textarea>
-  </p>
-  <div data-netlify-recaptcha="true"></div>
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
+<div class="container">
+  <div class="margin"></div>
+  <form name="contact" netlify onsubmit="handleSubmit(event)">
+    <p>
+      <label for="name">Your name</label>
+      <input id="name" type="text" name="name" required />
+    </p>
+    <p>
+      <label for="email">Email</label>
+      <input id="email" type="email" name="email" required />
+    </p>
+    <p>
+      <label for="phone">Phone</label>
+      <input
+        type="tel"
+        id="phone"
+        name="phone"
+        placeholder="(555) 555-5555"
+        oninput="onPhoneInput(event)"
+      />
+    </p>
+    <p>
+      <label for="kidsInfo">Name(s) and grade(s) of kid(s)</label>
+      <textarea id="kidsInfo" name="kidsInfo" required></textarea>
+    </p>
+    <p>
+      <label for="comments">Questions/comments</label>
+      <textarea id="comments" name="comments"></textarea>
+    </p>
+    <div data-netlify-recaptcha="true"></div>
+    <p>
+      <button type="submit">Submit</button>
+    </p>
+  </form>
+  <div class="margin"></div>
+</div>
