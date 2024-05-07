@@ -8,7 +8,6 @@ eleventyNavigation:
   key: Philosophy
   order: 1
 ---
-
 ## Osoberry School Philosophy
 
 Osoberry School is founded on the mission to provide meaning and wellbeing not just for the kids but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community.
@@ -17,7 +16,7 @@ Osoberry School is founded on the mission to provide meaning and wellbeing not j
 
 # How We Get There
 
-## _For the Kids_
+## *For the Kids*
 
 ### Deep, Meaningful Academics
 
@@ -51,23 +50,23 @@ When kids are given respect as unique and important beings, they are able to sho
 
 #### At Osoberry school, teachers show respect by:
 
-- Being prepared and experts in child development
-- Listening and adjusting as needed
-- Holding boundaries for the group and learning experience
-- Leading with humor, curiosity, and warmth
+* Being prepared and experts in child development
+* Listening and adjusting as needed
+* Holding boundaries for the group and learning experience
+* Leading with humor, curiosity, and warmth
 
 #### Kids show respect by:
 
-- Using skills in turn-taking
-- Participating in activities
-- Showing up to solve conflicts
-- Earnestly trying their best
+* Using skills in turn-taking
+* Participating in activities
+* Showing up to solve conflicts
+* Earnestly trying their best
 
-## _For the Teachers_
+## *For the Teachers*
 
 ### Time to plan
 
-Teachers at Osoberry School are given ample time throughout the week to do the important work of planning for their lessons. Most Fridays are a planning and collaboration day for teachers. Early afternoons Monday-Thursday are a free time for teachers to prep, coordinate, and communicate with families.
+Teachers at Osoberry School are given ample time throughout the week to do the important work of planning for their lessons. Most Fridays are a planning and collaboration day for teachers. Afternoons Monday-Thursday are a free time for teachers to prep, coordinate, and communicate with families.
 
 ### Regular breaks
 
@@ -87,7 +86,7 @@ We maintain small class sizes (maximum 14 students) so teachers can have what th
 
 Just as we nurture the social bonds between our students, Osoberry School dedicates time and space to its teachers to enjoy each other and feel connected. When teachers join our school they join a community that likes to spend time together.
 
-## _For the Families_
+## *For the Families*
 
 ### Hours that support time to work
 
