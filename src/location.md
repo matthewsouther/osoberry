@@ -13,3 +13,7 @@ We are located in the spacious and sunny lower level of First Covenant church at
 In addition to our classroom space, we have access to a full kitchen for cooking projects, large meeting hall for indoor movement and games, and an outdoor play area. 
 
 Only two blocks away from Laurelhurst Park, we are able to explore nature and get outside everyday. On Fridays we spend an extended amount of time immersed in nature activities and play at the park.
+
+## Inquire now!
+
+{% include "components/contactForm.html" %}
