@@ -60,8 +60,9 @@ header nav a:hover {
 header nav .subnav {
   display: none;
   position: absolute;
-  background-color: rgba(245, 245, 220, 0.9);
+  background-color: rgba(245, 245, 220);
   font-size: smaller;
+  padding: 0 0.5rem;
 }
 
 header nav li:has(input[type="checkbox"]:checked) > .subnav {

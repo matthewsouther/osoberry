@@ -15,6 +15,19 @@
     <link rel="stylesheet" href="/assets/theme.css" />
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-VP2Z2XDTWF"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-VP2Z2XDTWF");
+  </script>
   <body>
     <header>
       <div class="inner">
@@ -56,7 +69,10 @@
     <main>{{ content }}</main>
 
     <footer>
-      <p>&copy; 2024 Emily Souther<br />Logo &copy; 2024 Otto Souther</p>
+      <p>
+        Osoberry School • 4433 E Burnside St • Portland, OR • (503) 433-2923
+      </p>
+      <p>&copy; 2024 Emily Souther; logo &copy; 2024 Otto Souther</p>
     </footer>
     <!-- Redirect to CMS admin on login -->
     <script>
