@@ -15,9 +15,9 @@ eleventyNavigation:
 
 ### We are currently accepting applications for our first cohort of students.
 
-We will be opening our school in fall 2024 with one class of mixed 1st-4th graders. As soon as we hit enough enrolled students we will open two separate classes: 1st/2nd grade and 3rd-5th.
+We will be opening our school in fall 2024 with one class of mixed 1st-4th graders. As soon as we hit enough enrolled students we will open two separate classes: 1st/2nd grade and 3rd-4th.
 
-In Fall 2025, we will have two classes: 1st-3rd and 4th-5th grade. By the 3rd year we plan to have three mixed age classes: 1st/2nd, 3rd/4th, and 5th/6th. 
+In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the 3rd year we plan to have three mixed age classes: 1st/2nd, 3rd/4th, and 5th/6th. 
 
 #### Application Process:
 
