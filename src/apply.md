@@ -7,9 +7,10 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
+
 ## Application Process
 
-### *Start something new with us!*
+### _Start something new with us!_
 
 ![](/assets/uploads/dice.jpg)
 
@@ -17,7 +18,7 @@ eleventyNavigation:
 
 We will be opening our school in fall 2024 with one class of mixed 1st-4th graders. As soon as we hit enough enrolled students we will open two separate classes: 1st/2nd grade and 3rd-4th.
 
-In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the 3rd year we plan to have three mixed age classes: 1st/2nd, 3rd/4th, and 5th/6th. 
+In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the 3rd year we plan to have three mixed age classes: 1st/2nd, 3rd/4th, and 5th/6th.
 
 #### Application Process:
 
@@ -28,21 +29,19 @@ In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the 3rd ye
 
 #### Kids who are successful at Osoberry School are:
 
-* Curious and excited to learn
-* Respectful and responsible
-* Want to be part of a strong community
-* Enjoy spending time outside in all weather
-* Open to feedback and pushing through challenges
+- Curious and excited to learn
+- Respectful and responsible
+- Want to be part of a strong community
+- Enjoy spending time outside in all weather
+- Open to feedback and pushing through challenges
 
 ### Tuition
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **5 days per week:** $1,400/month for 11 months; includes all supplies and aftercare (8:30am-5pm)
-* **Forest Fridays only:** $250/month for 11 months; hours run 8:30-5pm and includes aftercare on site
+- **5 days per week:** $1,400/month for 11 months; includes all supplies and aftercare (8:30am-5pm)
+- **Forest Fridays only:** $250/month for 11 months; hours run 8:30-5pm and includes aftercare on site
 
 ## Inquire now!
 
 {% include "components/contactForm.html" %}
-
- *Osoberry School admits students of any sexual orientation, race, color, national and ethnic origin, to all the rights, privileges, programs and activities generally accorded or made available to students at the school. It does not discriminate on the basis of race, color, or national and ethnic origin in the administration of its educational policies, admissions policies, financial aid programs, and other school-administered programs.*
