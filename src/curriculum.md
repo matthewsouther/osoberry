@@ -8,19 +8,18 @@ eleventyNavigation:
   key: Curriculum
   order: 2
 ---
-
 # How We Teach and Learn
 
-Teachers at Osoberry School know best practices in teaching, and utilize hands-on, experiential activities and project based units of study. We don't just teach foundational academics; we teach kids how to learn and nurture their innate curiosity and joy.
+Teachers at Osoberry School know best practices in teaching and utilize hands-on, experiential activities and project based units of study. We don't just teach foundational academics; we teach kids how to learn and nurture their innate curiosity and joy.
 
 Each class follows a multi-year cycle of learning as they loop with their teacher. Math and Language Arts are taught in small groups based on skill development. By working in mixed-age classrooms, students are able to benefit from the experience of being a younger mentee and then an older mentor.
 
 We follow an extended school year from September through July to give space and time to academics and personal interests. With extra days in the year we are able to approach academics deeply, give time for concepts to settle, and relax into a day that schedules in playful downtime.
 
-Sample Schedule:
+Sample Schedule: 
 
 |             | Monday                          | Tuesday                         | Wednesday                       | Thursday                        | Forest Friday         |
-| ----------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | --------------------- | -------------- | ---- | -------------- | -------------- |
+| ----------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | --------------------- |
 | 8:30-9      | Arrive & Explore                | Arrive & Explore                | Arrive & Explore                | Arrive & Explore                | Arrive & Explore      |
 | 9-9:30      | Morning Meeting                 | Morning Meeting                 | Morning Meeting                 | Morning Meeting                 | Morning Meeting       |
 | 9:30-10:30  | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Art                   |
@@ -29,7 +28,7 @@ Sample Schedule:
 | 11:50-1     | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Nature Exploration    |
 | 1-1:30      | Quiet Reading                   | Read Aloud & Draw               | Quiet Reading                   | Read Aloud & Draw               | Nature Exploration    |
 | 1:30-2:30   | Theme Study                     | Theme Study                     | Theme Study                     | Choice Time                     | Walk back to School   |
-| 2:30-3      | Jobs                            | Closing Circle                  | Jobs                            | Circle                          | Jobs                  | Closing Circle | Jobs | Closing Circle | Closing Circle |
+| 2:30-3      | Jobs | Closing Circle           | Jobs |  Circle                  | Jobs | Closing Circle           | Jobs | Closing Circle           | Closing Circle        |
 | 3-5         | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up      |
 
 # Curriculum Focus by Subject
