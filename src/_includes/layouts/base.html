@@ -59,40 +59,42 @@
   </script>
   <body>
     <header>
-      <div class="inner">
-        <h1 class="home">
-          <a href="/"><img src="/assets/img/osoberry_logo_400.png" /></a>
-        </h1>
-        <button class="menu-icon">
-          <label for="expandMenu">
-            <img class="menu" src="/assets/img/menu.svg" />
-            <img class="close" src="/assets/img/close.svg" />
-          </label>
-          <input type="checkbox" id="expandMenu" />
-        </button>
-      </div>
-      <nav>
-        {% assign navPages = collections.all | eleventyNavigation %}
-        <ul>
-          {%- for level1 in navPages %}
-          <li>
-            {% if level1.url %}
-            <a href="{{ level1.url }}">{{ level1.title }}</a>
-            {% else %}
-            <label for="{{ level1.title }}-checkbox">
-              {{ level1.title }}
+      <div class="contentWrapper">
+        <div class="inner">
+          <h1 class="home">
+            <a href="/"><img src="/assets/img/osoberry_logo_400.png" /></a>
+          </h1>
+          <button class="menu-icon">
+            <label for="expandMenu">
+              <img class="menu" src="/assets/img/menu.svg" />
+              <img class="close" src="/assets/img/close.svg" />
             </label>
-            <input type="checkbox" id="{{ level1.title }}-checkbox" />
-            <div class="subnav">
-              {%- for level2 in level1.children %}
-              <a href="{{ level2.url }}">{{ level2.title }}</a>
-              {%- endfor %}
-            </div>
-            {% endif %}
-          </li>
-          {%- endfor %}
-        </ul>
-      </nav>
+            <input type="checkbox" id="expandMenu" />
+          </button>
+        </div>
+        <nav>
+          {% assign navPages = collections.all | eleventyNavigation %}
+          <ul>
+            {%- for level1 in navPages %}
+            <li>
+              {% if level1.url %}
+              <a href="{{ level1.url }}">{{ level1.title }}</a>
+              {% else %}
+              <label for="{{ level1.title }}-checkbox">
+                {{ level1.title }}
+              </label>
+              <input type="checkbox" id="{{ level1.title }}-checkbox" />
+              <div class="subnav">
+                {%- for level2 in level1.children %}
+                <a href="{{ level2.url }}">{{ level2.title }}</a>
+                {%- endfor %}
+              </div>
+              {% endif %}
+            </li>
+            {%- endfor %}
+          </ul>
+        </nav>
+      </div>
     </header>
 
     <main>{{ content }}</main>
