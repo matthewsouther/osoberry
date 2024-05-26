@@ -28,7 +28,7 @@ Sample Schedule:
 | 11:50-1     | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Nature Exploration    |
 | 1-1:30      | Quiet Reading                   | Read Aloud & Draw               | Quiet Reading                   | Read Aloud & Draw               | Nature Exploration    |
 | 1:30-2:30   | Theme Study                     | Theme Study                     | Theme Study                     | Choice Time                     | Walk back to School   |
-| 2:30-3      | Jobs | Closing Circle           | Jobs |  Circle                  | Jobs | Closing Circle           | Jobs | Closing Circle           | Closing Circle        |
+| 2:30-3      | Jobs & Closing Circle           | Jobs & Closing Circle           | Jobs & Closing Circle           | Jobs & Closing Circle           | Closing Circle        |
 | 3-5         | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up      |
 
 # Curriculum Focus by Subject
@@ -41,37 +41,37 @@ We split students into small groups based on skill development to support each c
 
 In **1st/2nd grade**, students typically focus on:
 
-- Building a concrete and flexible understanding of numbers
-- Developing a playful ease with addition and subtraction within 100, then 1000
-- Building with and talking about shapes
-- Using patterns in place value
-- Using data to describe and wonder about the world
-- Making and using equal groups
-- Composing and decomposing numbers
-- Measurement in time and space
+* Building a concrete and flexible understanding of numbers
+* Developing a playful ease with addition and subtraction within 100, then 1000
+* Building with and talking about shapes
+* Using patterns in place value
+* Using data to describe and wonder about the world
+* Making and using equal groups
+* Composing and decomposing numbers
+* Measurement in time and space
 
 In **3rd grade**, students typically focus on:
 
-- Continuing practice and fluency with addition and subtraction through 1000
-- Learning and practicing multiplication
-- Gaining a concrete understanding of division
-- Working with basic fractions to understand equal parts
+* Continuing practice and fluency with addition and subtraction through 1000
+* Learning and practicing multiplication
+* Gaining a concrete understanding of division
+* Working with basic fractions to understand equal parts
 
 In **4th grade**, students typically focus on:
 
-- Mastery of multiplication/division in useful situations
-- Play and practice with fractions including mixed fractions
-- Introduction to decimals
-- Using operations flexibly
-- Building and designing with shapes and angles
+* Mastery of multiplication/division in useful situations
+* Play and practice with fractions including mixed fractions
+* Introduction to decimals
+* Using operations flexibly
+* Building and designing with shapes and angles
 
 In **5th grade**, students typically focus on:
 
-- Multiplying and dividing fractions
-- Estimating with fractions
-- Thinking in powers of 10
-- Exploring the coordinate plane
-- Using numbers and symbols flexibly
+* Multiplying and dividing fractions
+* Estimating with fractions
+* Thinking in powers of 10
+* Exploring the coordinate plane
+* Using numbers and symbols flexibly
 
 ## Language Arts
 
@@ -81,29 +81,29 @@ Just as in math, we split kids into small group based on skill development. This
 
 In **1st/2nd grade**, students typically focus on:
 
-- Reading for joy
-- Comprehension and discussion of read-aloud texts
-- Exposure to a variety of texts including non-fiction, folktales, and poetry
-- Developing and documenting made up stories, how-to books, and expert narratives
-- Practicing neat, legible printed handwriting
+* Reading for joy
+* Comprehension and discussion of read-aloud texts
+* Exposure to a variety of texts including non-fiction, folktales, and poetry
+* Developing and documenting made up stories, how-to books, and expert narratives
+* Practicing neat, legible printed handwriting
 
 In **3rd/4th grade**, students typically focus on:
 
-- Reading for joy
-- Reading a variety of texts including non-fiction, fiction, and poetry
-- Developing research skills using printed and online materials
-- Learning and practicing skills for book discussions
-- Fluency in writing fictional and personal narrative stories, informational texts, and poetry
-- Learning and practicing legible cursive script
+* Reading for joy
+* Reading a variety of texts including non-fiction, fiction, and poetry
+* Developing research skills using printed and online materials
+* Learning and practicing skills for book discussions
+* Fluency in writing fictional and personal narrative stories, informational texts, and poetry
+* Learning and practicing legible cursive script
 
 In **5th/6th grade**, students typically focus on:
 
-- Reading for joy
-- Engaging in deep discussions around philosophy, ethics, history, and current events
-- Developing deeper skills in independent research
-- Practicing presentation and public speaking
-- Academic forms of writing such as essays in addition to deeper fiction writing
-- Learning and practicing keyboard typing
+* Reading for joy
+* Engaging in deep discussions around philosophy, ethics, history, and current events
+* Developing deeper skills in independent research
+* Practicing presentation and public speaking
+* Academic forms of writing such as essays in addition to deeper fiction writing
+* Learning and practicing keyboard typing
 
 ## Theme Study Projects
 
