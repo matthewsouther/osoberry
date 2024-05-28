@@ -8,5 +8,8 @@ eleventyNavigation:
   parent: About
   order: 5
 ---
+*We are not currently hiring.* 
 
-Depending on enrollment numbers, we hope to be recruiting for fantastic co-teacher and/or assistant positions in Fall 2024. Check back here soon for more information!
+Please check back for co-teacher and/or assistant positions for Fall 2024. 
+
+We always welcome resumes from teachers interested in being considered for future opportunities. You can email your resume and cover letter to: **emily@osoberry.school.** We will notify all qualified applicants when positions become available.
