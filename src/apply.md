@@ -38,8 +38,8 @@ In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the third 
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **5 days per week:** $1,400/month for 11 months; includes all supplies and aftercare (8:30am-5pm)
-* **Forest Fridays only:** $250/month for 11 months; hours run 8:30-5pm and includes aftercare on site
+* **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+* **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
 
 ## Inquire now!
 
