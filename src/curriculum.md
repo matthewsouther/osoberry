@@ -79,6 +79,8 @@ We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Wri
 
 Just as in math, we split kids into small group based on skill development. This means not all kids are working at their grade level. The following list will give you an idea of skill development through the years.
 
+![](/assets/uploads/copy-of-copy-of-untitled-design.png)
+
 In **1st/2nd grade**, students typically focus on:
 
 * Reading for joy
