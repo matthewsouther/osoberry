@@ -6,14 +6,19 @@ body {
 
 body {
   font-family: "Comfortaa", sans-serif;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(193, 255, 114, 1),
+    rgba(193, 255, 114, 0)
+  );
 }
 
 header {
   margin-bottom: 1rem;
-  background-color: #c1ff72;
+  /* background-color: #c1ff72; */
   /* background-image: linear-gradient(
     to bottom,
-    rgba(193, 255, 114, 1) 95%,
+    rgba(193, 255, 114, 1) 75%,
     rgba(193, 255, 114, 0)
   ); */
 }
