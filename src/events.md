@@ -11,13 +11,13 @@ eleventyNavigation:
 
 ## June Happenings
 
-### *PDX Parent Family Festival*
+***PDX Parent Family Festival***
 
-#### FREE
+**FREE**
 
-#### Saturday, June 22nd; 9am-2pm
+**Saturday, June 22nd; 9am-2pm**
 
-#### Topaz Farm
+**Topaz Farm**
 
 Come stop by the Osoberry School booth to learn more about the program, meet our founder, play some games, and make crafts! 
 
@@ -25,13 +25,13 @@ For more information on this FREE festival go to: [pdxparent.com/family-festival
 
 [](https://pdxparent.com/family-festival/)
 
-### *Forest Fun Meet & Greet*
+***Forest Fun Meet & Greet***
 
-#### FREE
+**FREE**
 
-#### Saturday, June 29th; 1-3pm
+**Saturday, June 29th; 1-3pm**
 
-#### Mt. Tabor Playground
+**Mt. Tabor Playground**
 
 We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
 
@@ -39,9 +39,9 @@ We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play ti
 
 ## August Happenings
 
-### *Summer STEAM Camp*
+***Summer STEAM Camp***
 
-#### *August 5th-9th*
+**August 5th-9th**
 
 Come join Osoberry School for a fun-filled week of summer STEAM! This camp is intended for interested families to come try out Osoberry School to see if they would like to join our community this fall. 
 
