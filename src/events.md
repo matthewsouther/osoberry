@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ### *PDX Parent Family Festival*
 
-![](/assets/uploads/festival-updated-1024x1024.png)
+#### FREE
 
 #### Saturday, June 22nd; 9am-2pm
 
@@ -21,13 +21,17 @@ eleventyNavigation:
 
 Come stop by the Osoberry School booth to learn more about the program, meet our founder, play some games, and make crafts! 
 
-For more information on the this FREE festival go to: [https://pdxparent.com/family-festival](https://pdxparent.com/family-festival/)
+For more information on this FREE festival go to: [https://pdxparent.com/family-festival](https://pdxparent.com/family-festival/)
 
 [](https://pdxparent.com/family-festival/)
 
 ### *Forest Fun Meet & Greet*
 
-![](/assets/uploads/untitled-design-25-.png)
+#### FREE
+
+#### Saturday, June 29th; 1-3pm
+
+#### Mt. Tabor Playground
 
 We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
 
