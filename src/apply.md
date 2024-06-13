@@ -5,11 +5,12 @@ eleventyExcludeFromCollections: false
 tags: topnav
 eleventyNavigation:
   key: Apply
-  order: 5
+  order: 4
 ---
+
 ## Application Process
 
-### *Start something new with us!*
+### _Start something new with us!_
 
 ![](/assets/uploads/dice.jpg)
 
@@ -28,18 +29,18 @@ In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the third 
 
 #### Kids who are successful at Osoberry School:
 
-* Are curious and excited to learn
-* Are respectful and responsible
-* Want to be part of a strong community
-* Enjoy spending time outside in all weather
-* Are open to feedback and pushing through challenges
+- Are curious and excited to learn
+- Are respectful and responsible
+- Want to be part of a strong community
+- Enjoy spending time outside in all weather
+- Are open to feedback and pushing through challenges
 
 ### Tuition
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
-* **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+- **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+- **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
 
 ## Inquire now!
 
