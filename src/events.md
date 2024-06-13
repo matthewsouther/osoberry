@@ -21,7 +21,7 @@ eleventyNavigation:
 
 Come stop by the Osoberry School booth to learn more about the program, meet our founder, play some games, and make crafts! 
 
-For more information on this FREE festival go to: [https://pdxparent.com/family-festival](https://pdxparent.com/family-festival/)
+For more information on this FREE festival go to: [pdxparent.com/family-festival](https://pdxparent.com/family-festival/)
 
 [](https://pdxparent.com/family-festival/)
 
@@ -35,7 +35,7 @@ For more information on this FREE festival go to: [https://pdxparent.com/family-
 
 We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
 
-Optional RSVP here: <https://forms.gle/AYH8rhGw3WWL64517>
+Optional [RSVP here](https://forms.gle/AYH8rhGw3WWL64517)[](https://forms.gle/AYH8rhGw3WWL64517)
 
 ## August Happenings
 
@@ -53,7 +53,7 @@ Camp rhythm will look very similar to our regular program.
 
 **Camp size capped at 10 kids** - Sign up early to ensure your spot!
 
-Sign Up Here: <https://forms.gle/6h4VZp6BcaJckVin7>
+[Sign Up Here](https://forms.gle/6h4VZp6BcaJckVin7)[](https://forms.gle/6h4VZp6BcaJckVin7)
 
 Priority will be given to families interested in enrolling for the full school year, but other families are welcome to sign up as space allows. 
 
