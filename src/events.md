@@ -17,7 +17,7 @@ eleventyNavigation:
 
 #### **Topaz Farm**
 
-####**FREE**
+**FREE**
 
 Come stop by the Osoberry School booth to learn more about the program, meet our founder, play some games, and make crafts! 
 
