@@ -13,9 +13,9 @@ eleventyNavigation:
 
 ### ***PDX Parent Family Festival***
 
-#### **Saturday, June 22nd; 9am-2pm**
+**Saturday, June 22nd; 9am-2pm**
 
-#### **Topaz Farm**
+**Topaz Farm**
 
 **FREE**
 
@@ -25,14 +25,13 @@ For more information on this FREE festival go to: [pdxparent.com/family-festival
 
 [](https://pdxparent.com/family-festival/)
 
-
-
 ### ***Forest Fun Meet & Greet***
 
-#### **Saturday, June 29th; 1-3pm**
+**Saturday, June 29th; 1-3pm**
 
-#### **Mt. Tabor Playground**
-#### **FREE**
+**Mt. Tabor Playground**
+
+**FREE**
 
 We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
 
