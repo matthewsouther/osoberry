@@ -39,18 +39,20 @@ We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play ti
 
 ### *Summer STEAM Camp*
 
+#### *August 5th-9th*
+
 Come join Osoberry School for a fun-filled week of summer STEAM! This camp is intended for interested families to come try out Osoberry School to see if they would like to join our community this fall. 
 
-Camp rhythm will look very close to our regular program. 
+Camp rhythm will look very similar to our regular program. 
 
-Dates: Monday-Friday August 5th-9th; 9am-2pm
+**Dates: Monday-Friday August 5th-9th; 9am-2pm**
 
-Cost: $300
+**Cost: $300**
 
-Camp size capped at 10 kids - Sign up early to ensure your spot!
+**Camp size capped at 10 kids** - Sign up early to ensure your spot!
 
 Sign Up Here: <https://forms.gle/6h4VZp6BcaJckVin7>
 
 Priority will be given to families interested in enrolling for the full school year, but other families are welcome to sign up as space allows. 
 
-**There will be a $400 discount on your annual tuition for the first 7 students to enroll in our full-time program by Aug. 15th.**
+**There will be a $400 discount on annual tuition for the first 7 students to enroll in our full-time program by Aug. 15th.**
