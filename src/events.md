@@ -35,7 +35,7 @@ For more information on this FREE festival go to: [pdxparent.com/family-festival
 
 We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
 
-Optional [RSVP here](https://forms.gle/AYH8rhGw3WWL64517)[](https://forms.gle/AYH8rhGw3WWL64517)
+[Optional RSVP here](https://forms.gle/AYH8rhGw3WWL64517)[](https://forms.gle/AYH8rhGw3WWL64517)
 
 ## August Happenings
 
