@@ -41,7 +41,7 @@ We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play ti
 
 Come join Osoberry School for a fun-filled week of summer STEAM! This camp is intended for interested families to come try out Osoberry School to see if they would like to join our community this fall. 
 
-Camp day rhythm will look very close to our regular program. 
+Camp rhythm will look very close to our regular program. 
 
 Dates: Monday-Friday August 5th-9th; 9am-2pm
 
