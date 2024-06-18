@@ -55,8 +55,6 @@ Camp rhythm will look very similar to our regular program.
 
 Priority will be given to families interested in enrolling for the full school year, but other families are welcome to sign up as space allows. 
 
-**There will be a $400 discount on annual tuition for the first 7 students to enroll in our full-time program by Aug. 15th.**
-
 ### ***Open Houses***
 
 Stop by and check out the Osoberry School classroom and yard! The director, Emily Souther, will be on hand to answer any questions. Kids welcome and encouraged to attend! This open house is not required to apply. 
