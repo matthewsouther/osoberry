@@ -56,3 +56,26 @@ Camp rhythm will look very similar to our regular program.
 Priority will be given to families interested in enrolling for the full school year, but other families are welcome to sign up as space allows. 
 
 **There will be a $400 discount on annual tuition for the first 7 students to enroll in our full-time program by Aug. 15th.**
+
+### ***Open Houses***
+
+Stop by and check out the Osoberry School classroom and yard! The director, Emily Souther, will be on hand to answer any questions. Kids welcome and encouraged to attend! This open house is not required to apply. 
+
+**Dates:** 
+
+* **August 13th; 5-7pm** 
+* **August 22nd; 10-12pm** 
+
+[RSVP Here](https://forms.gle/Q1Y6ce1dE3GZL9uw7)
+
+### ***Art Workshop***
+
+Spend the morning immersed in art and fun community games. We will work with watercolors and collage techniques to create stunning pieces to display at home. Snack provided.
+
+**Date: Tuesday August 20th; 9-12pm**
+
+**Cost: $30**
+
+**Enrollment limited to 10 kids** - Sign up early to ensure your spot!
+
+[Sign Up Here](https://forms.gle/A5hLNrE9GwRx132t9)
