@@ -47,6 +47,8 @@ Camp rhythm will look very similar to our regular program.
 
 **Dates: Monday-Friday August 5th-9th; 9am-2pm**
 
+**Location: Osoberry School - 4433 E Burnside St. PDX**
+
 **Cost: $300**
 
 **Camp size capped at 10 kids** - Sign up early to ensure your spot!
@@ -64,6 +66,8 @@ Stop by and check out the Osoberry School classroom and yard! The director, Emil
 * **August 13th; 5-7pm** 
 * **August 22nd; 10-12pm** 
 
+**Location: Osoberry School - 4433 E Burnside St. PDX**
+
 [RSVP Here](https://forms.gle/Q1Y6ce1dE3GZL9uw7)
 
 ### ***Art Workshop***
@@ -71,6 +75,8 @@ Stop by and check out the Osoberry School classroom and yard! The director, Emil
 Spend the morning immersed in art and fun community games. We will work with watercolors and collage techniques to create stunning pieces to display at home. Snack provided.
 
 **Date: Tuesday August 20th; 9-12pm**
+
+**Location: Osoberry School - 4433 E Burnside St. PDX**
 
 **Cost: $30**
 
