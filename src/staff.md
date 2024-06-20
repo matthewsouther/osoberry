@@ -48,3 +48,9 @@ My passion for education has been through various roles in the last fifteen year
 ![](/assets/uploads/image_50412289.jpg)
 
 I am so pleased to be a part of Osoberry’s mission to bring authentic and joyful education to Portland families. My days are filled with homeschooling my tween-age kids, immersing myself in math and writing pedagogy, gardening with my family, and drawing in my sketchbook. My background includes a degree in fine art, a ten-year fundraising career for colleges and non-profits, previous board positions, and an insatiable curiosity for education theory and practice.
+
+#### Mary Beth Kierstead, At-Large 
+
+![](/assets/uploads/marybeth.jpeg)
+
+Mary Beth has been the Education Director Portland’s largest and oldest early childhood center since 2020. She holds a Masters in Education from Columbia University’s Teachers College and has been on a life-long journey of understanding child development. She has over twenty years of teaching experience ranging from preschool to adults. She is passionate about constructivist pedagogy and social-emotional learning. She loves supporting children, teachers and families.
