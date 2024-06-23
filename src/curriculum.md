@@ -16,6 +16,8 @@ Each class follows a multi-year cycle of learning as they loop with their teache
 
 We follow an extended school year from September through July to give space and time to academics and personal interests. With extra days in the year we are able to approach academics deeply, give time for concepts to settle, and relax into a day that schedules in playful downtime.
 
+[2024/25 School Calendar](https://drive.google.com/file/d/1FyhkHj7rsgk0KM3bBcQGSyNVG0sN5QLz/view?usp=sharing)
+
 Sample Schedule: 
 
 |             | Monday                          | Tuesday                         | Wednesday                       | Thursday                        | Forest Friday         |

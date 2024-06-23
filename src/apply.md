@@ -7,10 +7,9 @@ eleventyNavigation:
   key: Apply
   order: 4
 ---
-
 ## Application Process
 
-### _Start something new with us!_
+### *Start something new with us!*
 
 ![](/assets/uploads/dice.jpg)
 
@@ -19,6 +18,8 @@ eleventyNavigation:
 We will be opening our school in Fall 2024 with one class of mixed 1st-4th graders. As soon as we hit enough enrolled students we will open two separate classes: 1st/2nd grade and 3rd/4th.
 
 In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the third year, we plan to have three mixed-age classes: 1st/2nd, 3rd/4th, and 5th/6th.
+
+View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1FyhkHj7rsgk0KM3bBcQGSyNVG0sN5QLz/view?usp=sharing)
 
 #### Application Process:
 
@@ -29,18 +30,20 @@ In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the third 
 
 #### Kids who are successful at Osoberry School:
 
-- Are curious and excited to learn
-- Are respectful and responsible
-- Want to be part of a strong community
-- Enjoy spending time outside in all weather
-- Are open to feedback and pushing through challenges
+* Are curious and excited to learn
+* Are respectful and responsible
+* Want to be part of a strong community
+* Enjoy spending time outside in all weather
+* Are open to feedback and pushing through challenges
 
 ### Tuition
 
-We do not currently have financial aid available. There is a 10% sibling discount.
+We do not currently have financial aid available. There is a 10% sibling discount. 
 
-- **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
-- **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+**Early enrollment discount: $400 off your annual tuition for the first 7 students that enroll and pay their deposit. Offer ends Aug. 15th.** 
+
+* **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+* **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
 
 ## Inquire now!
 
