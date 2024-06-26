@@ -35,6 +35,8 @@ Camp rhythm will look very similar to our regular program.
 
 **Location: Osoberry School - 4433 E Burnside St. PDX**
 
+**Ages: 6-9 year olds**
+
 **Cost: $300**
 
 **Camp size capped at 10 kids** - Sign up early to ensure your spot!
@@ -63,6 +65,8 @@ Spend the morning immersed in art and fun community games. We will work with wat
 **Date: Tuesday August 20th; 9-12pm**
 
 **Location: Osoberry School - 4433 E Burnside St. PDX**
+
+**Ages: 6-9 year olds**
 
 **Cost: $30**
 
