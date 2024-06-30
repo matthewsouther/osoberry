@@ -41,6 +41,15 @@ We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the 
 
 We split students into small groups based on skill development to support each child where they're at. Because of that, students don't always work in their grade level. The following list gives you an idea of how we progress math skills through the years.
 
+In **Kindergarten,** students typically focus on:
+
+* Foundational skills in numeracy to build math flexibility 
+* Understanding the physical quantity of numbers
+* Seeing and making patterns everywhere
+* Putting numbers together 
+* Describing and sorting objects
+* Stretching counting toward 100 
+
 In **1st/2nd grade**, students typically focus on:
 
 * Building a concrete and flexible understanding of numbers
@@ -83,12 +92,13 @@ Just as in math, we split kids into small group based on skill development. This
 
 ![](/assets/uploads/copy-of-copy-of-untitled-design.png)
 
-In **1st/2nd grade**, students typically focus on:
+In **Kinder-2nd grade**, students typically focus on:
 
 * Reading for joy
 * Comprehension and discussion of read-aloud texts
 * Exposure to a variety of texts including non-fiction, folktales, and poetry
 * Developing and documenting made up stories, how-to books, and expert narratives
+* Developing and practicing decoding skills, increasing in fluency from K to 2nd grade
 * Practicing neat, legible printed handwriting
 
 In **3rd/4th grade**, students typically focus on:
