@@ -15,9 +15,9 @@ eleventyNavigation:
 
 ### We are currently accepting applications for our first cohort of students.
 
-We will be opening our school in Fall 2024 with one class of mixed 1st-4th graders. As soon as we hit enough enrolled students we will open two separate classes: 1st/2nd grade and 3rd/4th.
+We will be opening our school in Fall 2024 with one class of mixed age Kindergarten-2nd graders
 
-In Fall 2025, we will have two classes: 1st/2nd and 3rd-5th grade. By the third year, we plan to have three mixed-age classes: 1st/2nd, 3rd/4th, and 5th/6th.
+We plan to grow over the years with multiple mixed-age classes K-6th grade. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1FyhkHj7rsgk0KM3bBcQGSyNVG0sN5QLz/view?usp=sharing)
 
