@@ -7,21 +7,7 @@ eleventyNavigation:
   key: Events
   order: 3
 ---
-# Events
-
-## June Happenings
-
-[](https://pdxparent.com/family-festival/)[](https://pdxparent.com/family-festival/)***Forest Fun Meet & Greet***
-
-**Saturday, June 29th; 1-3pm**
-
-**Mt. Tabor Playground**
-
-**FREE**
-
-We'll be at Mt Tabor Playground leading nature crafts, a scavenger hunt, play time, and best of all offering FREE SNACKS. Stop by to meet our founder and some of our board of directors to learn more about the program.
-
-[Optional RSVP here](https://forms.gle/AYH8rhGw3WWL64517)[](https://forms.gle/AYH8rhGw3WWL64517)
+# Events[](https://forms.gle/AYH8rhGw3WWL64517)
 
 ## August Happenings
 
@@ -35,7 +21,7 @@ Camp rhythm will look very similar to our regular program.
 
 **Location: Osoberry School - 4433 E Burnside St. PDX**
 
-**Ages: 6-9 year olds**
+**Ages: 5-8 year olds**
 
 **Cost: $300**
 
@@ -66,7 +52,7 @@ Spend the morning immersed in art and fun community games. We will work with wat
 
 **Location: Osoberry School - 4433 E Burnside St. PDX**
 
-**Ages: 6-9 year olds**
+**Ages: 5-8 year olds**
 
 **Cost: $30**
 
