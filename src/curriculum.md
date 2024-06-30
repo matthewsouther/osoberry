@@ -20,18 +20,18 @@ We follow an extended school year from September through July to give space and 
 
 Sample Schedule: 
 
-|             | Monday                          | Tuesday                         | Wednesday                       | Thursday                        | Forest Friday         |
-| ----------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | --------------------- |
-| 8:30-9      | Arrive & Explore                | Arrive & Explore                | Arrive & Explore                | Arrive & Explore                | Arrive & Explore      |
-| 9-9:30      | Morning Meeting                 | Morning Meeting                 | Morning Meeting                 | Morning Meeting                 | Morning Meeting       |
-| 9:30-10:30  | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Art                   |
-| 10:30-10:50 | Snack/Play                      | Snack/Play                      | Snack/Play                      | Snack/Play                      | Snack                 |
-| 10:50-11:50 | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Small Group Math/ Language Arts | Walk or Drive to Park |
-| 11:50-1     | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Lunch/ Walk to Park             | Nature Exploration    |
-| 1-1:30      | Quiet Reading                   | Read Aloud & Draw               | Quiet Reading                   | Read Aloud & Draw               | Nature Exploration    |
-| 1:30-2:30   | Theme Study                     | Theme Study                     | Theme Study                     | Choice Time                     | Walk back to School   |
-| 2:30-3      | Jobs & Closing Circle           | Jobs & Closing Circle           | Jobs & Closing Circle           | Jobs & Closing Circle           | Closing Circle        |
-| 3-5         | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up                | Flexible Pick Up      |
+|             | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday         |
+| ----------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 8:30-9      | Arrive & Explore      | Arrive & Explore      | Arrive & Explore      | Arrive & Explore      | Arrive & Explore      |
+| 9-9:30      | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       |
+| 9:30-10:30  | Math                  | Math                  | Math                  | Math                  | Art                   |
+| 10:30-10:50 | Snack/Play            | Snack/Play            | Snack/Play            | Snack/Play            | Snack                 |
+| 10:50-11:50 | Literacy Centers      | Literacy Centers      | Literacy Centers      | Literacy Centers      | Walk or Drive to Park |
+| 11:50-1     | Lunch/ Walk to Park   | Lunch/ Walk to Park   | Lunch/ Walk to Park   | Lunch/ Walk to Park   | Nature Exploration    |
+| 1-1:30      | Read Aloud            | Read Aloud            | Read Aloud            | Read Aloud            | Nature Exploration    |
+| 1:30-2:30   | Theme Study           | Choice Time           | Theme Study           | Choice Time           | Walk back to School   |
+| 2:30-3      | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Closing Circle        |
+| 3-5         | Flexible Pick Up      | Flexible Pick Up      | Flexible Pick Up      | Flexible Pick Up      | Flexible Pick Up      |
 
 # Curriculum Focus by Subject
 
@@ -124,3 +124,11 @@ In **5th/6th grade**, students typically focus on:
 Our Theme Study Projects include **Science,** **Social Studies, and Arts** topics and are highly influenced by class interests. We use a combination of teacher-led and student-directed investigations to explore our world. We integrate language arts and math into our projects as a space for authentic learning.
 
 **Example projects include:** Schoolyard ecology, mapping our city & Portland history, crime lab chemistry, First Nations of Oregon, animal reports, and class musicals
+
+## Afterschool 
+
+We offer flexible pick up times from 3-5pm. You are welcome to pick up at 3pm one day and 4:30 the next. We hope this offers families the reliable and stress free childcare they need for busy lives. 
+
+During our after school hours the kids enjoy more outside play time on our onsite playground, an afternoon snack, and an assortment of creative art and play activities. This time is low key, and typically less structured than the rest of the day. 
+
+Based on volunteer availability, we hope to offer parent-led clubs for kids to pursue specific interests.
