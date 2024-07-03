@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ### ***Summer STEAM Camp***
 
-Come join Osoberry School for a fun-filled week of summer STEAM! This camp is intended for interested families to come try out Osoberry School to see if they would like to join our community this fall. 
+Come join Osoberry School for a fun-filled week of summer STEAM! We will build forts, experiment with engineering challenges, have fun with art, and play games with friends!
 
 Camp rhythm will look very similar to our regular program. 
 
@@ -28,8 +28,6 @@ Camp rhythm will look very similar to our regular program.
 **Camp size capped at 10 kids** - Sign up early to ensure your spot!
 
 [Sign Up Here](https://forms.gle/6h4VZp6BcaJckVin7)[](https://forms.gle/6h4VZp6BcaJckVin7)
-
-Priority will be given to families interested in enrolling for the full school year, but other families are welcome to sign up as space allows. 
 
 ### ***Open Houses***
 
