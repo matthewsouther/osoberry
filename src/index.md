@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 # \*\*Launching Fall 2024 with one cohort of Kinder-2nd Grade\*\*
 
-For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
+### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
 ## *Connection, Wellbeing, Authentic Learning*
 
