@@ -17,8 +17,6 @@ Spend the morning immersed in art and fun community games. We will work with wat
 
 **Date: Tuesday August 20th; 9-12pm**
 
-**Location: NE Portland home at Going St. and 47th** 
-
 **Ages: 5-8 year olds**
 
 **Cost: $30**
