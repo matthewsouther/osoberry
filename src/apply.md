@@ -15,11 +15,11 @@ eleventyNavigation:
 
 ### We are currently accepting applications for our first cohort of students.
 
-*As we get started growing this new community, our 2024/25 school year will look a little different than following years.* 
+As we get started growing this new community, our 2024/25 school year will look a little different than following years. 
 
-*We will be opening our school in Fall 2024 with one class of mixed age Kindergarten-2nd graders. We will operate on a reduced schedule: Monday-Thursday 9am-2:30pm. As we grow we will hire additional staff to implement our full program.* 
+We will be opening our school with one class of mixed age Kindergarten-2nd graders. We will operate on a reduced schedule: **Monday-Thursday 9am-2:30pm.** As we grow we will hire additional staff to implement our full program. 
 
-*We plan to grow over the years with multiple mixed-age classes and serve K-6th grade.* 
+We plan to grow over the years with multiple mixed-age classes and serve K-6th grade. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
