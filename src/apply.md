@@ -15,11 +15,15 @@ eleventyNavigation:
 
 ### We are currently accepting applications for our first cohort of students.
 
-We will be opening our school in Fall 2024 with one class of mixed age Kindergarten-2nd graders
+*As we get started growing this new community, our 2024/25 school year will look a little different than following years.* 
 
-We plan to grow over the years with multiple mixed-age classes K-6th grade. 
+*We will be opening our school in Fall 2024 with one class of mixed age Kindergarten-2nd graders. We will operate on a reduced schedule: Monday-Thursday 9am-2:30pm. As we grow we will hire additional staff to implement our full program.* 
 
-View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1FyhkHj7rsgk0KM3bBcQGSyNVG0sN5QLz/view?usp=sharing)
+*We plan to grow over the years with multiple mixed-age classes and serve K-6th grade.* 
+
+View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+
+View our reduced sample schedule here: [Sample Schedule](https://docs.google.com/document/d/1X5KGSBLho11oEo-lMoekB_0DrUrY4rlRn0dC3bZ-_oo/edit?usp=sharing) [](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 #### Application Process:
 
@@ -40,10 +44,10 @@ View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.g
 
 We do not currently have financial aid available. There is a 10% sibling discount. 
 
-**Early enrollment discount: $400 off your annual tuition for the first 7 students that enroll and pay their deposit. Offer ends Aug. 15th.** 
+**Our first cohort of students will pay a reduced tuition for the 2024/25 school year.** 
 
-* **5 days per week:** $1,400/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
-* **Forest Fridays only:** $250/month for 11 months; includes all supplies and flexible pick up time (3-5pm)
+* **2024/25 Tuition:** $900/month for 11 months; M-TH 9am-2:30pm; includes all supplies
+* **Anticipated 2025/26 tuition:** $1,400/month for 11 months; M-F; includes all supplies and flexible pick up time (3-5pm)
 
 ## Inquire now!
 
