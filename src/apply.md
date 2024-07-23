@@ -19,6 +19,8 @@ As we get started growing this new community, our 2024/25 school year will look 
 
 We will be opening our school with one class of mixed age Kindergarten-2nd graders. We will operate on a reduced schedule: **Monday-Thursday 9am-2:30pm, September-July.** As we grow we will hire additional staff to implement our full program. 
 
+To provide Forest Fridays, families can sign up for [Trackers Homeschool Fridays program. ](https://www.trackerspdx.com/youth/school-year/homeschool/trackers-outdoor-homeschool/)
+
 We plan to grow over the years with multiple mixed-age classes and serve K-6th grade. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
