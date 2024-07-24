@@ -21,6 +21,8 @@ Spend the morning immersed in art and fun community games. We will work with wat
 
 **Cost: $30**
 
+**Location: Osoberry School - 4433 E Burnside. PDX**
+
 **Enrollment limited to 10 kids** - Sign up early to ensure your spot!
 
 [Sign Up Here](https://forms.gle/A5hLNrE9GwRx132t9)
@@ -34,5 +36,7 @@ Stop by Osoberry School to see the space and meet the teacher. Kids welcome!
 * **Tuesday August 6th; 10am-12pm** 
 * **Tuesday August 13th; 5-7pm**
 * **Thursday August 22nd; 10am-12pm**
+
+**Location: Osoberry School - 4433 E Burnside. PDX**
 
 [Sign Up Here](https://forms.gle/aS16YuoUZPnfddht9)
