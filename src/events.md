@@ -33,7 +33,10 @@ Are you curious about finding a school that prioritizes deep learning and emotio
 
 Snacks and crafts included so bring the whole family!
 
-**Date: Tuesday August 13th; 5-7pm**
+**Dates:** 
+
+* **Tuesday August 6th; 10-12pm**
+* **Tuesday August 13th; 5-7pm**
 
 **Location: Osoberry School - 4433 E Burnside. PDX**
 
