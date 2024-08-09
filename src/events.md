@@ -23,9 +23,9 @@ Spend the morning immersed in art and fun community games. We will work with wat
 
 **Location: Osoberry School - 4433 E Burnside. PDX**
 
-**Enrollment limited to 10 kids** - Sign up early to ensure your spot!
+**FULL**
 
-[Sign Up Here](https://forms.gle/A5hLNrE9GwRx132t9)
+[](https://forms.gle/A5hLNrE9GwRx132t9)
 
 ### [](https://forms.gle/A5hLNrE9GwRx132t9)*Open House*
 
