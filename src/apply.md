@@ -29,7 +29,7 @@ View our reduced sample schedule here: [Sample Schedule](https://docs.google.com
 
 #### Admissions Process
 
-Our admissions process is thoughtfully designed to ensure the success of your child at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program. 
+Our admissions process is thoughtfully designed to ensure admitted families will be successful at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program. 
 
 1. Schedule a call or in-person meeting with Osoberry School Director Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
 2. Complete the [application](https://forms.gle/YPW8pkDc4gxgxHMx8).
