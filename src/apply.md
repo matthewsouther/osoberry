@@ -27,12 +27,14 @@ View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.g
 
 View our reduced sample schedule here: [Sample Schedule](https://docs.google.com/document/d/1X5KGSBLho11oEo-lMoekB_0DrUrY4rlRn0dC3bZ-_oo/edit?usp=sharing) [](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
-#### Application Process:
+#### Admissions Process
+
+Our admissions process is thoughtfully designed to ensure the success of your child at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program. 
 
 1. Schedule a call or in-person meeting with Osoberry School Director Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
 2. Complete the [application](https://forms.gle/YPW8pkDc4gxgxHMx8).
-3. Visit in-person with your child for an informal interview with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community.
-4. We will contact you within 1-2 weeks regarding acceptance. You will have five days to sign the enrollment contract and pay a deposit to hold your spot.
+3. Visit in-person with your child for an informal interview with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. If your child refuses or lacks the skills to participate, Osoberry School will not be a good space for them to be successful. 
+4. We will contact you within 1-2 weeks regarding acceptance. You will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
 #### Kids who are successful at Osoberry School:
 
@@ -41,6 +43,8 @@ View our reduced sample schedule here: [Sample Schedule](https://docs.google.com
 * Want to be part of a strong community
 * Enjoy spending time outside in all weather
 * Are open to feedback and pushing through challenges
+
+
 
 ### Tuition
 
