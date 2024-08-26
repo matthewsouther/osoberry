@@ -9,35 +9,16 @@ eleventyNavigation:
 ---
 # Events[](https://forms.gle/AYH8rhGw3WWL64517)
 
-## August Happenings
+### September Happenings
 
-### ***Art Workshop***
+#### *Nature Playdate*[](https://forms.gle/bP52V4iFCGb2cyRm6)
 
-Spend the morning immersed in art and fun community games. We will work with watercolors and collage techniques to create stunning pieces to display at home. Snack provided.
+Meet Director and Lead Teacher, Emily Souther, and currently enrolled Osoberry families for nature crafts, games, and snacks! We can't wait to see you there!
 
-**Date: Tuesday August 20th; 9-12pm**
+Date: September 1st; 2-4pm
 
-**Ages: 5-8 year olds**
+Where: Mt Tabor Playground 
 
-**Cost: $30**
+FREE
 
-**Location: Osoberry School - 4433 E Burnside. PDX**
-
-**FULL**
-
-[](https://forms.gle/A5hLNrE9GwRx132t9)
-
-### [](https://forms.gle/A5hLNrE9GwRx132t9)*Open House*
-
-Are you curious about finding a school that prioritizes deep learning and emotional wellbeing? Join us at our Open House to learn more, tour the space, and chat with Director and Lead Teacher, Emily Souther.
-
-Snacks and crafts included so bring the whole family!
-
-**Dates:** 
-
-* **Tuesday August 6th; 10-12pm**
-* **Tuesday August 13th; 5-7pm**
-
-**Location: Osoberry School - 4433 E Burnside. PDX**
-
-[RSVP ](https://forms.gle/bP52V4iFCGb2cyRm6)[Here](https://forms.gle/bP52V4iFCGb2cyRm6)
+[RSVP](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
