@@ -34,7 +34,8 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 1. [Schedule a call](https://calendly.com/emily-u8ex/osoberry-school-info-session) with Osoberry School Director Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
 2. Complete the [application](https://forms.gle/YPW8pkDc4gxgxHMx8).
 3. Visit in-person with your child for an informal interview with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. If your child refuses or lacks the skills to participate, Osoberry School will not be a good space for them to be successful. 
-4. We will contact you within 1-2 weeks regarding acceptance. You will have three days to sign the enrollment contract and pay a deposit to hold your spot.
+4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. 
+5. We will contact you within 1 week regarding acceptance. You will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
 #### Kids who are successful at Osoberry School:
 
