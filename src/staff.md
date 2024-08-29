@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # About the Teachers
 
-### Emily Souther, Director & Lead Instructor
+### Emily Souther, Board President, Founder & Lead Instructor
 
 ![](/assets/uploads/emilypic.jpeg)
 
@@ -31,11 +31,7 @@ I live in Northeast Portland with my husband and two sons. You'll often find us 
 
 # About the Board of Directors
 
-### Matthew Souther, President
 
-![](/assets/uploads/matthew08.jpg)
-
-I am a software developer, longtime nonprofit professional, husband to Emily Souther and papa to Asa and Otto. For a job, I work on applications for [Local Initiatives Support Corporation](https://www.lisc.org/), a leading national Community Development Financial Institution. In my spare time, I like to write and perform music. I am a true believer in Osoberry School and committed to the success of the program and the growth of our little community.
 
 ### Leah Kraskoff, Secretary
 
@@ -49,7 +45,7 @@ My passion for education has been through various roles in the last fifteen year
 
 I am so pleased to be a part of Osoberry’s mission to bring authentic and joyful education to Portland families. My days are filled with homeschooling my tween-age kids, immersing myself in math and writing pedagogy, gardening with my family, and drawing in my sketchbook. My background includes a degree in fine art, a ten-year fundraising career for colleges and non-profits, previous board positions, and an insatiable curiosity for education theory and practice.
 
-### Mary Beth Kierstead, At-Large 
+### Mary Beth Kierstead, At-Large
 
 ![](/assets/uploads/marybeth.jpeg)
 
