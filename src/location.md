@@ -16,6 +16,10 @@ Only two blocks away from Laurelhurst Park, we are able to explore nature and ge
 
 ![](/assets/uploads/img_9433.jpg)
 
+![](/assets/uploads/img_9429.jpg)
+
+![](/assets/uploads/img_9435-1-.jpg)
+
 ## Inquire now!
 
 {% include "components/contactForm.html" %}
