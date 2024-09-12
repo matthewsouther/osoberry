@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/dice.jpg)
 
-### We are currently accepting applications for our first cohort of students.
+### Our school year has started but there's still time to join our first cohort of students! We offer rolling admission for open spaces throughout the year.  
 
 As we get started growing this new community, our 2024/25 school year will look a little different than following years. 
 
