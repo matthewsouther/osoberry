@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-# \*\*Launching Fall 2024 with one cohort of Kinder-2nd Grade\*\*
+# \*\*Spaces still available in our K-2 cohort!\*\*
 
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
