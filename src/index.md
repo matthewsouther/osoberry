@@ -16,6 +16,10 @@ At Osoberry School we teach and lead with emotional wellbeing in mind. While mod
 
 ![](/assets/uploads/phototrio.png)
 
+> *"We highly recommend Emily and the Osoberry School. For the first time, our son is excited to go to school. He tells us that learning at Osoberry is "fun and not boring." Emily connected with our child right away and her curriculum and teaching style is exactly what we want for our child."*
+>
+> ***Parent of a 1st grade Osoberry student***
+
 ## Inquire now!
 
 {% include "components/contactForm.html" %}
