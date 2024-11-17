@@ -31,6 +31,8 @@ Cost: $50
 
 Join Emily Souther, founder and lead teacher of Osoberry School for an evening to demystify the Portland Kinder scene. 
 
+You'll learn about:
+
 * The developmental stages of kindergarteners
 * Types of educational environments in Portland
 * 8 markers of a quality kindergarten program 
