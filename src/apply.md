@@ -28,8 +28,7 @@ We will be in our second year of operation and continuing to grow our full progr
 * One class of Kinder-2nd grade with 6-10 kids
 * Two teachers, one full-time, one part-time
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
-* Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare
-* Tuition: $1,200/month for 11 months[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+* Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 #### In future years you can expect
 
@@ -37,6 +36,13 @@ We will be in our second year of operation and continuing to grow our full progr
 * Max class size 14 kids
 * Flexible pick up time from 3-5pm to support working families 
 * Specialist teachers for music, art, and nature 
+
+### Tuition
+
+We do not currently have financial aid available. There is a 10% sibling discount. 
+
+* **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
+* **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
 
 #### Admissions Process
 
@@ -56,12 +62,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 * Enjoy spending time outside in all weather
 * Are open to feedback and pushing through challenges
 
-### Tuition
 
-We do not currently have financial aid available. There is a 10% sibling discount. 
-
-* **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
-* **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
 
 ## Inquire now!
 
