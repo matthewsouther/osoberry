@@ -7,17 +7,14 @@ eleventyNavigation:
   key: Apply
   order: 4
 ---
-## Application Process
-
-### *Start something new with us!*
+## The 2025-2026 application window is now open for incoming Kindergarten-2nd graders. 
 
 ![](/assets/uploads/dice.jpg)
 
-### The 2025-2026 application window is now open for incoming Kindergarten-2nd graders. Applications for priority enrollment are due by Feb. 1st, 2025.
 
-We will have about 3 openings for each grade: Kindergarten, 1st, and 2nd. 
+### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 3 openings for each grade: Kindergarten, 1st, and 2nd. 
 
-### We offer rolling admission for open spaces throughout the year. We have two openings in the 2024/25 cohort. 
+### We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort.  Please reach out if you are interested in enrollment for this year. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
@@ -30,7 +27,7 @@ We will be in our second year of operation and continuing to grow our full progr
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
 * Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
-#### In future years you can expect
+#### In future years you can expect:
 
 * Three mixed age classes: K-2; 3rd/4th; 5th/6th
 * Max class size 14 kids
@@ -44,7 +41,7 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 * **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
 * **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
 
-#### Admissions Process
+## Admissions Process
 
 Our admissions process is thoughtfully designed to ensure admitted families will be successful at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program. 
 
@@ -54,7 +51,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. 
 5. We will contact you in early April regarding your enrollment. You will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
-#### Kids who are successful at Osoberry School:
+### Kids who are successful at Osoberry School:
 
 * Are curious and excited to learn
 * Are respectful and responsible
