@@ -15,7 +15,9 @@ eleventyNavigation:
 
 ### The 2025-2026 application window is now open for incoming Kindergarten-2nd graders. Applications for priority enrollment are due by Feb. 1st, 2025.
 
-### We offer rolling admission for open spaces throughout the year.
+We will have about 3 openings for each grade: Kindergarten, 1st, and 2nd. 
+
+### We offer rolling admission for open spaces throughout the year. We have two openings in the 2024/25 cohort. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
