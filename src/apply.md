@@ -19,7 +19,7 @@ eleventyNavigation:
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
-##### [](https://www.cedartreelearning.com/)[](https://www.trackerspdx.com/youth/school-year/homeschool/trackers-outdoor-homeschool/)2025/26 School Year Details
+#### [](https://www.cedartreelearning.com/)[](https://www.trackerspdx.com/youth/school-year/homeschool/trackers-outdoor-homeschool/)2025/26 School Year Details
 
 We will be in our second year of operation and continuing to grow our full program. Here’s what you can expect next year: 
 
@@ -29,7 +29,7 @@ We will be in our second year of operation and continuing to grow our full progr
 * Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare
 * Tuition: $1,200/month for 11 months[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
-##### In future years you can expect
+#### In future years you can expect
 
 * Three mixed age classes: K-2; 3rd/4th; 5th/6th
 * Max class size 14 kids
