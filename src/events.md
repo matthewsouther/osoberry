@@ -17,6 +17,8 @@ Treat your kids to a creative morning of art adventures! Perfect for kids ages 5
 
 Date: Monday, December 23rd, 9-1pm
 
+Ages: 5-8
+
 Cost: $50
 
 **Location:** Osoberry School - [4433 E Burnside St PDX](https://www.google.com/maps/place/Osoberry+School/@45.5233736,-122.6190253,17z/data=!3m1!4b1!4m6!3m5!1s0x5495a17f916b1e8f:0x3ca0006e5f55dff8!8m2!3d45.5233699!4d-122.6164504!16s%2Fg%2F11y50cgvqw?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D)
