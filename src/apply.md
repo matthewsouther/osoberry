@@ -50,7 +50,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they will have a half day. 
 5. We will contact you by April regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
-#### When making enrollment decisions we are looking for kids who:
+#### When making enrollment decisions we are looking for kids and families who:
 
 * Are excited to join our community
 * Are curious and excited to learn
@@ -58,6 +58,8 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 * Can follow age appropriate directions
 * Enjoy spending time outside in all weather
 * Are open to feedback and pushing through challenges
+
+Additionally, when possible we balance our classes for age and gender. 
 
 We welcome families who have children with a diagnosed neurodivergence to apply. We have happily worked with kids who are ASD, ADHD, and dyslexic among other profiles. 
 
