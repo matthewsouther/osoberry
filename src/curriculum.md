@@ -86,7 +86,7 @@ In **5th grade**, students typically focus on:
 
 We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling) and teacher-created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
 
-Just as in math, we split kids into small group based on skill development. This means not all kids are working at their grade level. The following list will give you an idea of skill development through the years.
+Just as in math, we split kids into small groups based on skill development. This means not all kids are working at their grade level. The following list will give you an idea of skill development through the years.
 
 ![](/assets/uploads/copy-of-copy-of-untitled-design.png)
 
@@ -122,11 +122,3 @@ In **5th/6th grade**, students typically focus on:
 Our Theme Study Projects include **Science,** **Social Studies, and Arts** topics and are highly influenced by class interests. We use a combination of teacher-led and student-directed investigations to explore our world. We integrate language arts and math into our projects as a space for authentic learning.
 
 **Example projects include:** Schoolyard ecology, mapping our city & Portland history, crime lab chemistry, First Nations of Oregon, animal reports, and class musicals
-
-## Afterschool
-
-We offer flexible pick up times from 3-5pm. You are welcome to pick up at 3pm one day and 4:30 the next. We hope this offers families the reliable and stress free childcare they need for busy lives. 
-
-During our after school hours the kids enjoy more outside play time on our onsite playground, an afternoon snack, and an assortment of creative art and play activities. This time is low key, and typically less structured than the rest of the day. 
-
-Based on volunteer availability, we hope to offer parent-led clubs for kids to pursue specific interests.
