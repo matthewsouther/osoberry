@@ -70,7 +70,7 @@ When kids are given respect as unique and important beings, they are able to sho
 
 ### Time to plan
 
-Teachers at Osoberry School are given ample time throughout the week to do the important work of planning for their lessons. Most Fridays are a planning and collaboration day for teachers. Afternoons Monday-Thursday are a free time for teachers to prep, coordinate, and communicate with families.
+Teachers at Osoberry School are given ample time throughout the week to do the important work of planning for their lessons. 
 
 ### Regular breaks
 
@@ -92,12 +92,12 @@ Just as we nurture the social bonds between our students, Osoberry School dedica
 
 ## *For the Families*
 
-### Hours that support time to work
-
-Traditional school hours are still set up to require one parent to either sacrifice their career in favor of being present during after-school hours, or manage too many spinning plates of care from 3-5pm. At Osoberry School, after-school enrichment is included with tuition and provides kids with a fun, safe environment to spend their afternoons. Providing this minimizes the hectic transition between school hours and aftercare. Kids get to spend their afternoons with the same people and in the same environment they enjoy during the day.
-
-![](/assets/uploads/balancingact.jpeg)
-
 ### Year-round schooling and enrichment
 
 The stress and cost of orchestrating summer camps, wondering if you’ll get in and driving your kids all over town for something different each week of summer is taxing on families’ wellbeing. When your child is enrolled in Osoberry School, you benefit from a year-round schedule where learning happens every season and schedule simplicity rules.
+
+### Communication, Community, and Care
+
+As an intentionally small school everyone gets to know each other quickly! Families can expect strong communication from their child's teacher who cares about each child and family deeply. We pride ourselves on delivering weekly updates and photos about what's happening in class, and scheduling family meetings to address questions and concerns that come up throughout the year.
+
+![](/assets/uploads/balancingact.jpeg)
