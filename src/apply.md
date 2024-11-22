@@ -17,7 +17,7 @@ We offer rolling admission for open spaces throughout the year. We currently hav
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
-### School Year Details
+## School Year Details
 
 2025/2026 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year: 
 
@@ -33,7 +33,7 @@ View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 * Flexible pick up time from 3-5pm to support working families 
 * Specialist teachers for music, art, and nature 
 
-### Tuition
+## Tuition
 
 We do not currently have financial aid available. There is a 10% sibling discount. 
 
@@ -50,20 +50,20 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they will have a half day. 
 5. We will contact you by April regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
-#### When making enrollment decisions we are looking for kids and families who:
+### When making enrollment decisions we are looking for kids and families who:
 
 * Are excited to join our community
 * Are curious and excited to learn
+* Enjoy spending time outside in all weather
 * Are respectful and responsible
 * Can follow age appropriate directions
-* Enjoy spending time outside in all weather
 * Are open to feedback and pushing through challenges
 
-Additionally, when possible we balance our classes for age and gender. 
+When possible, we balance our classes for age and gender. 
 
-We welcome families who have children with a diagnosed neurodivergence to apply. We have happily worked with kids who are ASD, ADHD, and dyslexic among other profiles. 
+**We welcome families who have children with a diagnosed neurodivergence to apply. We have happily worked with kids who are ASD, ADHD, and dyslexic among other profiles.** 
 
-Due to staffing and lack of expertise, we cannot accommodate children who are aggressive, defiant, or unable to follow the flow of our day. 
+**Due to staffing and lack of expertise, we cannot accommodate children who are aggressive, defiant, or unable to follow the flow of our day.** 
 
 ## Inquire now!
 
