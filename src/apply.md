@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/dice.jpg)
 
-### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 6 openings. 
+### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 6 openings.
 
 We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort.  Please reach out if you are interested in enrollment for this year. 
 
@@ -47,16 +47,21 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 1. [Schedule a call](https://calendly.com/emily-u8ex/osoberry-school-info-session) with Osoberry School Director, Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
 2. Complete the [application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit) by **February 1st, 2025** for priority enrollment.
 3. Visit in-person with your child for an informal interview with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. If your child refuses or lacks the skills to participate, Osoberry School will not be a good space for them to be successful. 
-4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. 
-5. We will contact you in early April regarding your enrollment. You will have three days to sign the enrollment contract and pay a deposit to hold your spot.
+4. Schedule a shadow day for your child to visit the class. This is a full drop off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they will have a half day. 
+5. We will contact you by April regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
-### Kids who are successful at Osoberry School:
+#### When making enrollment decisions we are looking for kids who:
 
+* Are excited to join our community
 * Are curious and excited to learn
 * Are respectful and responsible
-* Want to be part of a strong community
+* Can follow age appropriate directions
 * Enjoy spending time outside in all weather
 * Are open to feedback and pushing through challenges
+
+We welcome families who have children with a diagnosed neurodivergence to apply. We have happily worked with kids who are ASD, ADHD, and dyslexic among other profiles. 
+
+Due to staffing and lack of expertise, we cannot accommodate children who are aggressive, defiant, or unable to follow the flow of our day. 
 
 ## Inquire now!
 
