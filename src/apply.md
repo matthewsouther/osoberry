@@ -14,11 +14,11 @@ eleventyNavigation:
 
 ### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 3 openings for each grade: Kindergarten, 1st, and 2nd. 
 
-### We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort.  Please reach out if you are interested in enrollment for this year. 
+We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort.  Please reach out if you are interested in enrollment for this year. 
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
-#### [](https://www.cedartreelearning.com/)[](https://www.trackerspdx.com/youth/school-year/homeschool/trackers-outdoor-homeschool/)2025/26 School Year Details
+### School Year Details
 
 We will be in our second year of operation and continuing to grow our full program. Here’s what you can expect next year: 
 
@@ -27,7 +27,7 @@ We will be in our second year of operation and continuing to grow our full progr
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
 * Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
-#### In future years you can expect:
+### In future years you can expect:
 
 * Three mixed age classes: K-2; 3rd/4th; 5th/6th
 * Max class size 14 kids
