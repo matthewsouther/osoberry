@@ -36,7 +36,6 @@ Sample Schedule:
 
 ## Math
 
-
 We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher-created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts. Whenever possible we integrate art into our math study to connect with the creative, beautiful side of the subject.
 
 We split students into small groups based on skill development to support each child where they're at. Because of that, students don't always work in their grade level. The following list gives you an idea of how we progress math skills through the years.
@@ -88,7 +87,7 @@ In **5th grade**, students typically focus on:
 
 ## Language Arts
 
-We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling) and teacher-created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
+We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Writer, Words Their Way Spelling, Handwriting Without Tears) and teacher-created lessons to build authentic and joyful uses of reading and writing. For students needing more focused reading/writing instruction we utilize Structured Literacy approaches in small group pull-outs. We combine our Language Arts lessons with thematic units in Social Studies and Science, and integrate the arts whenever possible as a mode for storytelling.
 
 Just as in math, we split kids into small groups based on skill development. This means not all kids are working at their grade level. The following list will give you an idea of skill development through the years.
 
@@ -126,3 +125,11 @@ In **5th/6th grade**, students typically focus on:
 Our Theme Study Projects include **Science,** **Social Studies, and Arts** topics and are highly influenced by class interests. We use a combination of teacher-led and student-directed investigations to explore our world. We integrate language arts and math into our projects as a space for authentic learning.
 
 **Example projects include:** Schoolyard ecology, mapping our city & Portland history, crime lab chemistry, First Nations of Oregon, animal reports, and class musicals
+
+![](/assets/uploads/img_9870-1-.jpg)
+
+## Art
+
+We prioritize time for kids to work on creative art projects and explore different art techniques. Most of the time these projects are integrated into our academic work, but art materials are always made available during Choice Time. We whole-heartedly believe that giving kids access to an arts-rich curriculum builds the emotional wellbeing of our students. 
+
+![](/assets/uploads/img_9789.jpg)
