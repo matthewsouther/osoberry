@@ -36,11 +36,12 @@ Sample Schedule:
 
 ## Math
 
-![](/assets/uploads/img_9559.jpg)
 
 We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher-created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts. Whenever possible we integrate art into our math study to connect with the creative, beautiful side of the subject.
 
 We split students into small groups based on skill development to support each child where they're at. Because of that, students don't always work in their grade level. The following list gives you an idea of how we progress math skills through the years.
+
+![](/assets/uploads/img_9559.jpg)
 
 In **Kindergarten,** students typically focus on:
 
@@ -91,7 +92,7 @@ We use a combination of curriculums (Writing Workshop by Lucy Calkins, Brave Wri
 
 Just as in math, we split kids into small groups based on skill development. This means not all kids are working at their grade level. The following list will give you an idea of skill development through the years.
 
-![](/assets/uploads/copy-of-copy-of-untitled-design.png)
+![](/assets/uploads/img_9715-2-.jpg)
 
 In **Kinder-2nd grade**, students typically focus on:
 
