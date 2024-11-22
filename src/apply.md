@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/dice.jpg)
 
-### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 3 openings for each grade: Kindergarten, 1st, and 2nd.
+### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 6 openings. 
 
 We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort.  Please reach out if you are interested in enrollment for this year. 
 
