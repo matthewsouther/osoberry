@@ -36,6 +36,8 @@ Sample Schedule:
 
 ## Math
 
+![](/assets/uploads/img_9559.jpg)
+
 We use a combination of curriculums (Math for Love, Mindset Mathematics, Do the Math) and teacher-created lessons. We introduce and practice concepts using hands-on materials and math games to develop a concrete and flexible understanding of math concepts. Whenever possible we integrate art into our math study to connect with the creative, beautiful side of the subject.
 
 We split students into small groups based on skill development to support each child where they're at. Because of that, students don't always work in their grade level. The following list gives you an idea of how we progress math skills through the years.
