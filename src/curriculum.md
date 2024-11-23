@@ -130,6 +130,14 @@ Our Theme Study Projects include **Science,** **Social Studies, and Arts** topic
 
 ## Art
 
-We prioritize time for kids to work on creative art projects and explore different art techniques. Most of the time these projects are integrated into our academic work, but art materials are always made available during Choice Time. We whole-heartedly believe that giving kids access to an arts-rich curriculum builds the emotional wellbeing of our students. 
+We prioritize time for kids to work on creative art projects and explore different art techniques. Most of the time these projects are integrated into our academic work, but we also have special art specific lessons and materials are always made available during Choice Time for kids to explore. We carefully craft our art curriculum to teach skills progressively and expose kids to a variety of art mediums, techniques, and styles. We whole-heartedly believe that giving kids access to an arts-rich curriculum builds the emotional wellbeing of our students. 
 
 ![](/assets/uploads/img_9789.jpg)
+
+## Forest Fridays
+
+We utilize a slower pace on Fridays to engage in deep nature exploration. Typically we head to Laurelhurst Park (only two blocks from school) to play, explore, wonder, and learn. We have a mix of structured and unstructured time and often follow the lead of the children. We enjoy making nature crafts, diving into environmental science topics, and exploring engineering/physics.
+
+With the help of parent drivers we are able to explore many of the amazing nature parks within the Portland Metro area and utilize local experts at organizations like the Audubon Center. 
+
+![](/assets/uploads/img_5413.jpg)
