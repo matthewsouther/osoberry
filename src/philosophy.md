@@ -12,7 +12,7 @@ eleventyNavigation:
 
 Osoberry School is founded on a mission to provide meaning and wellbeing not just for the kids, but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community.
 
-![](/assets/uploads/copy-of-untitled-design.png)
+![](/assets/uploads/copy-of-untitled-design-1-.png)
 
 > *"Our experience at Osoberry School is like night and day from our kid's previous school. She's excited to arrive each day and wishes she could attend even more days! At home we see her engaging in a different kind of play and thinking that she's obviously learning at school. It's been amazing!"*
 >
@@ -38,7 +38,7 @@ Play is a fundamental part of being a kid, and supports development in creativit
 
 Kids at Osoberry School are given time and space to explore personal interests during Choice Time. This is when you’ll find kids experimenting with an art technique, tapping out a song on the keyboard, engineering a house for their stuffed animals, and so much more.
 
-![](/assets/uploads/untitled-design-21-.png)
+![](/assets/uploads/copy-of-untitled-design-2-.png)
 
 ### Nature
 
@@ -76,7 +76,7 @@ Teachers at Osoberry School are given ample time throughout the week to do the i
 
 Just like kids need regular breaks to recharge, so do grown-ups. Teachers at Osoberry School have regular breaks throughout the day to take care of themselves and recharge.
 
-![](/assets/uploads/untitled-design-23-.png)
+![](/assets/uploads/untitled-design-27-.png)
 
 ### Respect and esteem
 
