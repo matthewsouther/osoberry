@@ -56,6 +56,13 @@
     }
     gtag("js", new Date());
     gtag("config", "G-VP2Z2XDTWF");
+    // When a nav section is expanded, collapse all other nav sections
+    const onNavSectionExpand = (event) => {
+      const ul = event.target.parentElement.parentElement;
+      ul.querySelectorAll("input").forEach((element) => {
+        if (element !== event.target) element.checked = false;
+      });
+    };
   </script>
   <body>
     <header>
@@ -83,7 +90,11 @@
               <label for="{{ level1.title }}-checkbox">
                 {{ level1.title }}
               </label>
-              <input type="checkbox" id="{{ level1.title }}-checkbox" />
+              <input
+                type="checkbox"
+                id="{{ level1.title }}-checkbox"
+                onchange="onNavSectionExpand(event)"
+              />
               <div class="subnav">
                 {%- for level2 in level1.children %}
                 <a href="{{ level2.url }}">{{ level2.title }}</a>
