@@ -7,39 +7,38 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-
 ## The 2025-2026 application window is now open for incoming Kindergarten-2nd graders.
 
-![](/assets/uploads/dice.jpg)
+![](/assets/uploads/untitled-design-29-.png)
 
 ### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 6 openings.
 
 We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort. Please reach out if you are interested in enrollment for this year.
 
-View our 2024/25 school calendar here: [2024/25 School Calendar]()
+View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
 ## School Year Details
 
 2025/2026 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year:
 
-- One class of Kinder-2nd grade with 6-10 kids
-- Two teachers, one full-time, one part-time
-- A full academic curriculum that integrates art, play, the sciences, and social emotional learning
-- Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+* One class of Kinder-2nd grade with 6-10 kids
+* Two teachers, one full-time, one part-time
+* A full academic curriculum that integrates art, play, the sciences, and social emotional learning
+* Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
 
-- Three mixed age classes: K-2; 3rd/4th; 5th/6th
-- Max class size 14 kids
-- Flexible pick up time from 3-5pm to support working families
-- Specialist teachers for music, art, and nature
+* Three mixed age classes: K-2; 3rd/4th; 5th/6th
+* Max class size 14 kids
+* Flexible pick up time from 3-5pm to support working families
+* Specialist teachers for music, art, and nature
 
 ## Tuition
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-- **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
-- **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
+* **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
+* **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
 
 ## Admissions Process
 
@@ -53,12 +52,12 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 
 ### When making enrollment decisions we are looking for kids and families who:
 
-- Are excited to join our community
-- Are curious and excited to learn
-- Enjoy spending time outside in all weather
-- Are respectful and responsible
-- Can follow age appropriate directions
-- Are open to feedback and pushing through challenges
+* Are excited to join our community
+* Are curious and excited to learn
+* Enjoy spending time outside in all weather
+* Are respectful and responsible
+* Can follow age appropriate directions
+* Are open to feedback and pushing through challenges
 
 When possible, we balance our classes for age and gender.
 
