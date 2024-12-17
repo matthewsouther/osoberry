@@ -3,7 +3,7 @@ title: Home
 layout: base
 tags: topnav
 ---
-# \*\*Spaces still available in our K-2 cohort!\*\*
+# \*\*Spaces still available for 5-7 year olds!\*\*
 
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
@@ -15,7 +15,7 @@ At Osoberry School we teach and lead with emotional wellbeing in mind. While mod
 
 > *"We highly recommend Emily and the Osoberry School. For the first time, our son is excited to go to school. He tells us that learning at Osoberry is "fun and not boring." Emily connected with our child right away and her curriculum and teaching style is exactly what we want for our child."*
 >
-> ***\-Parent of a 1st grade Osoberry student***
+> ***\-Parent of a 7 year old Osoberry student***
 
 ## Inquire now!
 
