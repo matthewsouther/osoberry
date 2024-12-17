@@ -16,7 +16,7 @@ Osoberry School is founded on a mission to provide meaning and wellbeing not jus
 
 > *"Our experience at Osoberry School is like night and day from our kid's previous school. She's excited to arrive each day and wishes she could attend even more days! At home we see her engaging in a different kind of play and thinking that she's obviously learning at school. It's been amazing!"*
 >
-> ***\-Parent of a 2nd grade Osoberry student***
+> ***\-Parent of a 7 year old Osoberry student***
 
 # How We Get There
 
