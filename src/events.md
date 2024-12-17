@@ -8,10 +8,11 @@ eleventyNavigation:
   key: Events
   order: 3
 ---
-
 # Events
 
 ### January Offerings
+
+**Parent Education Night**
 
 **The Kinder Conundrum**
 
@@ -19,10 +20,10 @@ Join Emily Souther, founder and lead teacher of Osoberry School for an evening t
 
 You'll learn about:
 
-- The developmental stages of kindergarteners
-- Types of educational environments in Portland
-- 8 markers of a quality kindergarten program
-- Questions to ask when visiting schools and open houses
+* The developmental stages of kindergarteners
+* Types of educational environments in Portland
+* 8 markers of a quality kindergarten program
+* Questions to ask when visiting schools and open houses
 
 You'll walk away with helpful tips and a kindergarten cheat sheet.
 
