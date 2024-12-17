@@ -15,7 +15,7 @@ eleventyNavigation:
 
 
 
-We offer rolling admission for open spaces throughout the year. We currently have two openings in the 2024/25 cohort. Please reach out if you are interested in enrollment for this year.
+We offer rolling admission for open spaces throughout the year. **We currently have two openings in the 2024/25 class.** Please reach out if you are interested in enrollment for this year.
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 
