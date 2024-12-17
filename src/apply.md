@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-## The 2025-2026 application window is now open for incoming 5-8 year olds.
+## The 2025/26 application window is open for incoming 5-8 year olds.
 
 ![](/assets/uploads/untitled-design-29-.png)
 
