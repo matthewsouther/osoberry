@@ -13,8 +13,6 @@ eleventyNavigation:
 
 ![](/assets/uploads/untitled-design-29-.png)
 
-
-
 We offer rolling admission for open spaces throughout the year. **We currently have two openings in the 2024/25 class.** Please reach out if you are interested in enrollment for this year.
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
@@ -63,7 +61,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 
 When possible, we balance our classes for age and gender.
 
-**We welcome families who have children with a diagnosed neurodivergence to apply. We have happily worked with kids who are Autistic, ADHD, and dyslexic among other profiles.**
+**We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles.** 
 
 **Due to staffing and lack of expertise, we cannot accommodate children who are aggressive, defiant, or unable to follow the flow of our day.**
 
