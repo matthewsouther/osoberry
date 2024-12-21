@@ -44,4 +44,8 @@ Get ready to build and create at our Tinker Time STEAM Workshop for kids ages 4-
 
 **Location:** Osoberry School 4433 E Burnside St. Portland
 
+We love small class sizes, so spaces are limited!
+
+[SIGN UP](https://forms.gle/VVFZPs4S5x8KHENe8)
+
 ![](/assets/uploads/tinker-time-workshop.png)
