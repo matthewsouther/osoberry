@@ -30,9 +30,7 @@ Cost: $50
 
 ### January Offerings
 
-#### Tinker Time!
-
-#### Steam Workshop 
+**Tinker Time! Steam Workshop** 
 
 Get ready to build and create at our Tinker Time STEAM Workshop for kids ages 4-7! In this hands-on session, young builders will explore basic engineering concepts by designing, constructing, and testing their own structures using fun materials. Whether it's making towers, bridges, or simple machines, kids will develop problem-solving skills and unleash their creativity while learning the power of building. Perfect for little hands and big imaginations—join us for a day of engineering fun!
 
