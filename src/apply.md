@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-## The 2025/26 application window is open for incoming 5-7 year olds.
+## The 2025/26 application window is open for incoming 5-8 year olds.
 
 ### Applications for priority enrollment are due by Feb. 1st, 2025. We will have about 6 openings.
 
@@ -24,6 +24,7 @@ View our 2024/25 school calendar here: [2024/25 School Calendar](<>)
 * One class of 5-8 year olds with 6-10 kids
 * Two teachers, one full-time, one part-time
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
+* Small group instruction that allows for "just right" academic challenges
 * Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
