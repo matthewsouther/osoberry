@@ -34,7 +34,7 @@ We prioritize small class sizes, this means spaces are limited!
 
 We will be offering summer camps June 23rd-July 24th. Sign ups coming soon!
 
-**[Sign up for our mailing list](http://eepurl.com/iOiTlM) to be the first to hear updates about camps and other Osoberry events.**
+**[Join ](http://eepurl.com/iOiTlM)[our mailing list](http://eepurl.com/iOiTlM) to be the first to hear updates about camps and other Osoberry events.**
 
 **Details:** 
 
