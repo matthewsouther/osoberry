@@ -38,6 +38,8 @@ We will be offering summer camps June 23rd-July 24th. Sign ups coming soon!
 
 **Details:** 
 
+Each week will include a daily rhythm with a balance of structured and unstructured time. Our days will be filled with games, outdoor play, dedicated activities based on that week's theme and free choice play. Thursdays are a dedicated nature day where we walk to Laurelhurst Park for nature crafts and play. 
+
 **Hours:** Monday-Thursday 9am-2:30pm 
 
 **Ages:** 5-8 year olds
@@ -59,5 +61,3 @@ We prioritize small class sizes, this means spaces are limited!
 **Week 4 - July 14-17: Tinker Time Engineering**
 
 **Week 5 - July 21-24: Art Explorations**
-
-Each week will include a daily rhythm filled with games, outdoor play, dedicated activities based on that week's theme and stories. Thursdays are a dedicated nature day were we walk to Laurelhurst Park for nature crafts and play.
