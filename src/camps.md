@@ -29,3 +29,9 @@ We prioritize small class sizes, this means spaces are limited!
 [SIGN UP](https://forms.gle/VVFZPs4S5x8KHENe8)
 
 ![](/assets/uploads/tinker-time-workshop.png)
+
+### Summer Camps
+
+We will be offering summer camps June 23rd-July 24th. Stay tuned for specific information and sign ups in February! 
+
+**[Sign up for our mailing list](http://eepurl.com/iOiTlM) to be the first to hear updates about camps and other Osoberry events.**
