@@ -32,6 +32,32 @@ We prioritize small class sizes, this means spaces are limited!
 
 ### Summer Camps
 
-We will be offering summer camps June 23rd-July 24th. Stay tuned for specific information and sign ups in February! 
+We will be offering summer camps June 23rd-July 24th. Sign ups coming soon!
 
 **[Sign up for our mailing list](http://eepurl.com/iOiTlM) to be the first to hear updates about camps and other Osoberry events.**
+
+**Details:** 
+
+**Hours:** Monday-Thursday 9am-2:30pm 
+
+**Ages:** 5-8 year olds
+
+**Cost:** $250/week or $1125 for all 5 weeks (that's $125 off) 
+
+**Location:** Osoberry School 4433 E Burnside St. Portland
+
+We prioritize small class sizes, this means spaces are limited!
+
+**Themes by week:**
+
+**Week 1 - June 23-26: All About Animals**
+
+**Week 2 - June 30-July 3: Lotions and Potions**
+
+**Week 3 - July 7-10: Craft Creations**
+
+**Week 4 - July 14-17: Tinker Time Engineering**
+
+**Week 5 - July 21-24: Art Explorations**
+
+Each week will include a daily rhythm filled with games, outdoor play, dedicated activities based on that week's theme and stories. Thursdays are a dedicated nature day were we walk to Laurelhurst Park for nature crafts and play.
