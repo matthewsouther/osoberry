@@ -58,13 +58,11 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 * Enjoy spending time outside in all weather
 * Are respectful and responsible
 * Can follow age appropriate directions
-* Are open to feedback and pushing through challenges
+* Are open to feedback and working through challenges
 
 When possible, we balance our classes for age and gender.
 
-**We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles.** 
-
-**Due to staffing and lack of expertise, we cannot accommodate children who are aggressive, defiant, or unable to follow the flow of our day.**
+We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles. 
 
 ## Inquire now!
 
