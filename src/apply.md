@@ -17,6 +17,8 @@ We offer rolling admission for open spaces throughout the year. **We currently h
 
 View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
+Our 2025/26 calendar will be posted soon.
+
 ## School Year Details
 
 2025/2026 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year:
