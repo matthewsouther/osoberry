@@ -29,10 +29,10 @@ We are a new school growing into our full program. Please visit the [Apply Page]
 
 When fully enrolled, our program will have:
 
-* About 40 students divided into three classes: K-2, 3rd/4th, 5th/6th
+* About 40 students divided into three classes, serving 5-11 year olds: Youngers, Middles, Olders
 * Max class sizes of 14 students
 * Two teachers per class
-* Flexible pick up time from 3-5pm 
-* An extended school year from Sept.-July
+* Flexible drop-off from 8:30-9am and pick-up from 3-5pm 
+* An extended school year running Sept.-July
 * Dedicated nature immersion on Fridays 
 * Drop in specialists for music, art, and nature
