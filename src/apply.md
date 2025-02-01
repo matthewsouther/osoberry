@@ -64,7 +64,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 
 When possible, we balance our classes for age and gender.
 
-We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles. 
+**We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles. Due to our small staff size and limited training, we are not currently able to support students with high support needs. In addition, we are an academic program where students are expected to participate in teacher-led class activities.** 
 
 ## Inquire now!
 
