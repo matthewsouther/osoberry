@@ -38,8 +38,8 @@ Our 2025/26 calendar will be posted soon.
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **2024/25 Tuition:** $900/month for 11 months; M-TH, 9am-2:30pm; includes all supplies
-* **2025/26 tuition:** $1,200/month for 11 months; M-F, 9am-3pm; includes all supplies
+* **2024/25 Tuition:** $900/month for 11 months; **M-TH**, 9am-2:30pm; includes all supplies
+* **2025/26 tuition:** $1,200/month for 11 months; **M-F**, 9am-3pm; includes all supplies
 
 ## Admissions Process
 
