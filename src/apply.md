@@ -7,9 +7,9 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-## We offer rolling admission for open spaces throughout the year. 
+## We offer rolling admission for open spaces throughout the year.
 
-### **We currently have two openings in the 2024/25 class.** 
+### **We currently have two openings in the 2024/25 class.**
 
 ![](/assets/uploads/untitled-design-29-.png)
 
@@ -51,9 +51,9 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 4. Schedule a shadow day for your child to visit the class. This is a drop off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they may have a shortened day.
 5. We will contact you regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
-### When making enrollment decisions we are looking for: 
+### When making enrollment decisions we are looking for:
 
-### Kids who:
+**Kids who:**
 
 * Are excited to join our community
 * Are eager to learn and grow
@@ -63,7 +63,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 * Can follow age appropriate directions
 * Are open to feedback and working through challenges
 
-### Parents who:
+**Parents who:**
 
 * Value [productive struggle](https://www.edutopia.org/article/neuroscience-behind-productive-struggle)
 * Strive for [responsible tech usage](https://www.forbes.com/sites/larsdaniel/2025/02/02/digital-minimalism-protecting-kids-in-an-attention-addiction-economy/) 
