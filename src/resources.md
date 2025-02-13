@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Resources
 
-Want to deep dive into how we approach teaching and learning at Osoberry School? These are some of our favorite articles, videos, and podcasts about education and what it means to be a human in our world. 
+Want to dive deep into how we approach teaching and learning at Osoberry School? These are some of our favorite articles, videos, and podcasts about education and what it means to be a human in our world. 
 
 #### Finland's Approach to Education
 
