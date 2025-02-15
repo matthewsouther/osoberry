@@ -7,9 +7,12 @@
     max-width: 100%;
   }
   form {
-    flex-basis: 500px;
+    flex-basis: 600px;
     display: flex;
     flex-direction: column;
+  }
+  form p {
+    margin-block: 0.5em;
   }
   form p label {
     display: block;
@@ -91,19 +94,54 @@
       />
     </p>
     <p>
-      <label for="kidsInfo">Name(s) and grade(s) of kid(s)</label>
+      <label for="kidsInfo">Name(s) and age(s) of child(ren)</label>
       <textarea id="kidsInfo" name="kidsInfo" required></textarea>
     </p>
     <p>
+      <label for="whenInterestedInEnrolling"
+        >When are you interested in enrollment?</label
+      >
+      <textarea
+        id="whenInterestedInEnrolling"
+        name="whenInterestedInEnrolling"
+        required
+      ></textarea>
+    </p>
+    <p>
+      <label for="schoolEnvironmentWants"
+        >What are you looking for in a school environment?</label
+      >
+      <textarea
+        id="schoolEnvironmentWants"
+        name="schoolEnvironmentWants"
+        required
+      ></textarea>
+    </p>
+    <p>
+      <label for="howChildLearnsBest"
+        >Share a little bit about how your child(ren) learn(s) best</label
+      >
+      <textarea
+        id="howChildLearnsBest"
+        name="howChildLearnsBest"
+        required
+      ></textarea>
+    </p>
+    <p>
       <label for="source">How did you hear about Osoberry School?</label>
-      <textarea id="source" name="source"></textarea>
+      <textarea id="source" name="source" required></textarea>
     </p>
     <p>
       <label for="comments">Questions/comments</label>
       <textarea id="comments" name="comments"></textarea>
     </p>
     <p>
-      <input type="checkbox" id="addToEmailList" name="addToEmailList" checked/>
+      <input
+        type="checkbox"
+        id="addToEmailList"
+        name="addToEmailList"
+        checked
+      />
       <label for="addToEmailList">
         Yes, I'd like to get email updates about Osoberry School
       </label>
