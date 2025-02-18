@@ -3,7 +3,7 @@ title: Home
 layout: base
 tags: topnav
 ---
-# \*\*Spaces still available for 5-7 year olds!\*\*
+# \*\*Two spaces available for 5-7 year olds!\*\*
 
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
