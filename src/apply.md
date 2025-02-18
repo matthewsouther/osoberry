@@ -13,7 +13,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/untitled-design-29-.png)
 
-View our 2024/25 school calendar here: [2024/25 School Calendar](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+View our 2024/25 "soft start" calendar here: [2024/25 School Calendar](https://docs.google.com/document/d/1i7rlPKHpC0M7biY7v0tlSrIDW7Pl_Y81ORtRtDdLRAM/edit?usp=sharing)
 
 Our 2025/26 calendar will be posted soon.
 
@@ -38,7 +38,7 @@ Our 2025/26 calendar will be posted soon.
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **2024/25 Tuition:** $900/month for 11 months; **M-TH**, 9am-2:30pm; includes all supplies
+* **2024/25 Tuition:** $700/month for 11 months; **M/W/TH**, 9am-2:30pm; includes all supplies
 * **2025/26 tuition:** $1,200/month for 11 months; **M-F**, 9am-3pm; includes all supplies
 
 ## Admissions Process
