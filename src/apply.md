@@ -46,7 +46,7 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 Our admissions process is thoughtfully designed to ensure admitted families will be successful at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program.
 
 1. **[Schedule a call](https://calendly.com/emily-u8ex/osoberry-school-info-session)** with Osoberry School Director, Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
-2. Complete the **[application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit)**.
+2. Complete the **[application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit)** and pay a $100 application fee. 
 3. Visit in-person with your child for an **informal interview** with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. If your child refuses or lacks the skills to participate, Osoberry School will not be a good space for them to be successful.
 4. Schedule a **visit day** for your child to visit the class. This is a drop off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they may have a shortened day.
 5. We will contact you regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
@@ -68,11 +68,11 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 * Value [productive struggle](https://www.edutopia.org/article/neuroscience-behind-productive-struggle)
 * Strive for [responsible tech usage](https://www.forbes.com/sites/larsdaniel/2025/02/02/digital-minimalism-protecting-kids-in-an-attention-addiction-economy/) 
 * Prioritize real world experiences 
-* Support academics and free play
+* Support strong academics and free play
 
 When possible, we balance our classes for age and gender.
 
-**We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles. Due to our small staff size, we are not currently able to support students with high support needs. In addition, we are an academic program where students are expected to participate in teacher-led class activities.** 
+**We welcome families who have children with a diagnosed or suspected neurodivergence to apply. We have happily worked with kids who are Gifted, Autistic, ADHD, and dyslexic among other profiles. Due to our small staff size, we are not currently able to support students with high support needs including aggressive behaviors, eloping, or serious mental health challenges. In addition, we are an academic program where students are expected to participate in teacher-led class activities.** 
 
 ## Inquire now!
 
