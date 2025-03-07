@@ -25,7 +25,8 @@ Our 2025/26 calendar will be posted soon.
 * Two teachers, one full-time, one part-time
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
 * Small group instruction that allows for "just right" academic challenges
-* Hours: Monday-Friday 9am-3pm, with an extended school year running September-July for stable childcare[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+* Hours: Monday-Friday 9am-3pm, with flexible drop-off from 8:30-9am
+* School Year: An extended school year running September-July for stable childcare and reduced "summer slide"[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
 
@@ -39,7 +40,7 @@ Our 2025/26 calendar will be posted soon.
 We do not currently have financial aid available. There is a 10% sibling discount.
 
 * **2024/25 Tuition:** $700/month for 11 months; **M/W/TH**, 9am-2:30pm; includes all supplies
-* **2025/26 tuition:** $1,200/month for 11 months; **M-F**, 9am-3pm; includes all supplies
+* **2025/26 tuition:** $13,200 split evenly over 12 months ($1100/month); **M-F**, 8:30am-3pm; includes all supplies
 
 ## Admissions Process
 
