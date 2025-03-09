@@ -32,8 +32,6 @@ collections:
         name: date
         widget: datetime
         default: "{{now}}"
-        date_format: M/D/YYYY
-        time_format: "h:mm A"
       - { label: Description, name: description, widget: text }
       - label: Featured Image
         name: featuredImage
