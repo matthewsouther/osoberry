@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<style>
+  .subheader {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 2rem;
+  }
+</style>
+<h1>{{ title }}</h1>
+<div class="subheader">by {{ author }}, {{ date | toMDYyyy }}</div>
+<img src="{{ featuredImage }}" />
+<main>{{ content }}</main>

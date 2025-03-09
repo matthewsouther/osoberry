@@ -1,0 +1,36 @@
+<style>
+  table,
+  tr,
+  td {
+    border: none;
+  }
+  td img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .blogPostTitle {
+    font-weight: bold;
+    font-size: large;
+  }
+  .blogPostSubheader {
+    font-style: italic;
+  }
+</style>
+<div class="container">
+  <table cellspacing="0" cellpadding="0">
+    {%- for post in collections.blog reversed %}
+    <tr>
+      <td><img src="{{ post.data.featuredImage }}" /></td>
+      <td>
+        <div class="blogPostTitle">
+          <a href="{{post.url}}">{{ post.data.title }}</a>
+        </div>
+        <div class="blogPostSubheader">
+          by {{post.data.author}}, {{ post.date | toMDYyyy }}
+        </div>
+        <div>{{ post.data.description }}</div>
+      </td>
+    </tr>
+    {%- endfor %}
+  </table>
+</div>

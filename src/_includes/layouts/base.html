@@ -80,7 +80,7 @@
           </button>
         </div>
         <nav>
-          {% assign navPages = collections.all | eleventyNavigation %}
+          {% assign navPages = collections.topnav | eleventyNavigation %}
           <ul>
             {%- for level1 in navPages %}
             <li>
