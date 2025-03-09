@@ -27,14 +27,14 @@ collections:
     preview_path: "blog/{{slug}}"
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Description, name: description, widget: text }
-      - { label: Author, name: author, widget: text, default: Emily Souther }
+      - { label: Author, name: author, widget: string }
       - label: Publish Date
         name: date
         widget: datetime
         default: "{{now}}"
         date_format: M/D/YYYY
         time_format: "h:mm A"
+      - { label: Description, name: description, widget: text }
       - label: Featured Image
         name: featuredImage
         widget: image
