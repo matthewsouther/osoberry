@@ -8,8 +8,11 @@ layout: base
     font-style: italic;
     margin-bottom: 2rem;
   }
+  .featuredImage {
+    max-width: 100%;
+  }
 </style>
 <h1>{{ title }}</h1>
 <div class="subheader">by {{ author }}, {{ date | toMDYyyy }}</div>
-<img src="{{ featuredImage }}" />
+<img class="featuredImage" src="{{ featuredImage }}" />
 <main>{{ content }}</main>
