@@ -24,11 +24,11 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Ages:** 5-8 year olds
 
-**Cost:** $250/week or $1125 for all 5 weeks (that's $125 off) 
+**Cost:** $300/week or $1350 for all 5 weeks (that's $150 off) 
 
 **Location:** Osoberry School 4433 E Burnside St. Portland
 
-We prioritize small class sizes, this means spaces are limited!
+Space is limited! We have an enrollment cap of seven kids per week. 
 
 **Themes by week:**
 
