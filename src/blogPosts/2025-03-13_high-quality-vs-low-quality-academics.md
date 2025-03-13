@@ -18,7 +18,7 @@ Over the course of my teaching career there has been a steady movement towards i
 
 ….Yeah, that job didn’t work out for me. 
 
-Now there is (rightfully) a backlash against slimming down play time. Parents are on board with kids playing and are demanding play at school! In light of this, academics and rigor have become dirty words.
+Now there is (rightfully) a backlash against slimming down play time. Parents are onboard with kids playing and are demanding play at school! In light of this, academics and rigor have become dirty words.
 
 But, there is more going on here than a fight between play vs. academics. What folks are bristling against is too much time spent on **low-quality** academics.   
 
