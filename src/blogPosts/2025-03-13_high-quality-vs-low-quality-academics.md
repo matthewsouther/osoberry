@@ -36,7 +36,9 @@ High-quality academics take skilled teachers to implement. It’s an art and req
 
 The ultimate insult to those who are truly passionate about teaching and educating our youth. Sayings like this make us think that teaching is easy and lowers our standards for the teaching profession. 
 
-With low-quality academics there are a lot of worksheets with yes or no answers and that’s because it’s really easy to grade them and put a score on it that we can then have data to make some sort of judgement or statement about what’s happening in that school or classroom or with that child. 
+With low-quality academics there are a lot of worksheets with yes or no answers. That’s because it’s really easy to grade them and put a score on it. Then we have data to make some sort of judgement or statement about what’s happening in that school or classroom or with that child. 
+
+But those data points don't display a full picture and they often aren't even measuring what we think is important in a child's education. 
 
 High-quality academics are a lot more difficult to show progress because it requires people who know what they're doing to be observing each child. They have to really know each child and understand what kind of learning journey they’re on and where they started and where they’re going. 
 
