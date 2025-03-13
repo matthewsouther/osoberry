@@ -2,7 +2,9 @@
 title: High-Quality vs. Low-Quality Academics
 author: Emily Souther
 date: 2025-03-12T16:51:00.000Z
-description: Which one do you want for your child?
+description: >
+  High-quality academics inspire kids to feel hopeful about the future, to feel
+  in charge of their lives and capable. 
 featuredImage: /assets/uploads/copy-of-blog-post-photo-1.png
 layout: blog
 tags: blog
