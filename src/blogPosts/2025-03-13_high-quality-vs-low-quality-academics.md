@@ -8,9 +8,9 @@ layout: blog
 tags: blog
 permalink: blog/{{ page.fileSlug }}/index.html
 ---
-**Hey People -** 
+**Hey Folks -** 
 
-As I was writing my blog post about the 8 Markers of a Quality Kindergarten Program, I realized I kept coming back to this thought about the difference between high-quality academics and low-quality academics. 
+As I was writing my blog post about the [8 Markers of a Quality Kindergarten Program](https://osoberry.school/blog/2025-03-01_new_blog/), I realized I kept coming back to this thought about the difference between high-quality academics and low-quality academics. 
 
 Over the course of my teaching career there has been a steady movement towards increasing “instructional time.” Recess time has been getting shorter and shorter to make space for “academics.” I even taught Kindergarten at a school that told me, *“there’s no time for play.”* 
 
@@ -64,8 +64,6 @@ After creating their data displays, kids go through a “gallery walk” and exp
 
 ![](/assets/uploads/copy-of-photobanner-2-.png)
 
- 
-
 The final part of this unit is for the class to collect and analyze data so they can take action on something. This is the most authentic experience with data collection and something adults do in many professions. 
 
 Kids are tasked with thinking about the recycling we create at school. They work together to make sense of what we’re throwing away and if there is anything we could have reused instead. They sort the recycling based on attributes (that’s new vocabulary they’re using!) and display their data in a way that communicates the information. 
@@ -73,23 +71,5 @@ Kids are tasked with thinking about the recycling we create at school. They work
 After this they take action on what they learned from their data collection. Maybe they realize how much paper they’re throwing away when they cut a tiny circle out of the middle of a piece of paper and decide the rest is unusable. Maybe they’ll educate each other on cutting circles at the edge of the paper and using one piece of paper for more than one cutting project. (A teacher can dream!) 
 
 It doesn’t really matter what they decide to take action on. The point is they are learning how to USE data. They are asking questions and wondering and taking action and being in charge of understanding themselves and their world a little better. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *That* is high-quality academics. That is the kind of work that inspires kids and teaches real skills, not just filling in easy answers.
