@@ -1,7 +1,7 @@
 ---
 title: High-Quality vs. Low-Quality Academics
 author: Emily Souther
-date: 2025-03-12T16:51:00.000Z
+date: 2025-03-11T09:51:00.000Z
 description: >
   High-quality academics inspire kids to feel hopeful about the future, to feel
   in charge of their lives and capable.
