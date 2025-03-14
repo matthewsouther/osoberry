@@ -16,10 +16,14 @@
     font-style: italic;
     margin-bottom: 0.5rem;
   }
+  .paginator {
+    text-align: center;
+    margin-top: 1rem;
+  }
 </style>
 <div class="container">
   <table cellspacing="0" cellpadding="0">
-    {%- for post in collections.blog reversed %}
+    {%- for post in posts %}
     <tr>
       <td><img src="{{ post.data.featuredImage }}" /></td>
       <td>
@@ -34,4 +38,9 @@
     </tr>
     {%- endfor %}
   </table>
+  <div class="paginator">
+    Page {{ pagination.pageNumber | plus: 1 }} of {{ pagination.pages.length }}
+    <a href="{{pagination.href.previous}}">Previous</a>
+    <a href="{{pagination.href.next}}">Next</a>
+  </div>
 </div>
