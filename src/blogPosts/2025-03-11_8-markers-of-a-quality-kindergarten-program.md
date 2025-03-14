@@ -1,7 +1,7 @@
 ---
 title: 8 Markers of a Quality Kindergarten Program
 author: Emily Souther
-date: 2025-03-11T11:17:00.000Z
+date: 2025-03-10T04:17:00.000Z
 description: "Kindergarten is a big milestone for families. How do you know what
   to look for when touring all those school open houses? "
 featuredImage: /assets/uploads/untitled-design-33-.png
