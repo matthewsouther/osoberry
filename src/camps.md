@@ -41,3 +41,15 @@ Space is limited! We have an enrollment cap of seven kids per week.
 **Week 4 - July 14-17: Tinker Time Engineering**
 
 **Week 5 - July 21-24: Art Explorations**
+
+**Cancelation Policy:** 
+
+Cancelations made in April will receive a full refund.
+
+Cancelations made in May will receive a 60% refund.
+
+Cancelations made June through one week before camp date will receive a 40% refund.
+
+Cancelations made one week or less before camp will receive no refund. 
+
+*\*You can transfer to another available week at no cost*
