@@ -10,8 +10,6 @@ eleventyNavigation:
 ---
 # Camps[](https://forms.gle/xDs5WH5QiydoBrDaA)[](https://forms.gle/VVFZPs4S5x8KHENe8)
 
-### Summer Camps
-
 ![](/assets/uploads/copy-of-tinker-time-workshop.png)
 
 Sign ups coming soon!
