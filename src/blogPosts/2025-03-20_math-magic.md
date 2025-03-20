@@ -36,7 +36,7 @@ I was stuck; petrified by these tests. I never wanted to practice the tables bec
 
 And I lived there for many years: Avoiding thinking about math unless forced to, letting the belief seep deeply inside me:
 
-**I’m not good at math.**
+#### **I’m not good at math.**
 
 ![](/assets/uploads/copy-of-copy-of-copy-of-photobanner-1-.png)
 
@@ -48,9 +48,9 @@ Then every once in a while, I would get a glimmer. I’d hear from someone, chil
 
 And it would rattle me. 
 
-How can you like math? 
+**How can you like math?** 
 
-What do you see that I don’t see? 
+**What do you see that I don’t see?** 
 
 How can some people say math is beautiful, elegant, and playful when my lived experience and the experience of so many is that math is something to get through? 
 
@@ -86,4 +86,4 @@ My expedition spelunking into the cave of mathematics has introduced me to more 
 
 As a third grader, sitting in front of those scary, meaningless timed tests, I knew there had to be a better way. I’ve always credited my third grade teacher as the reason why I went into education: to find and be that better way. Now, having this new insight into math, I feel like I’ve finally arrived. It’s as if I have reached inside the concept of math and turned it inside out and am now shining a light on its secrets. I can say to the class, “Look, this is what math is really about and isn’t it beautiful, elegant, and playful?”
 
-And they can say, “Yes, yes it is.”[](https://mathforlove.com/2024/03/math-magic/)[](https://mathforlove.com/2024/03/math-magic/)
+And they can say, **“Yes, yes it is.”**[](https://mathforlove.com/2024/03/math-magic/)[](https://mathforlove.com/2024/03/math-magic/)
