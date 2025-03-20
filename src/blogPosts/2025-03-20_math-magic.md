@@ -11,7 +11,7 @@ permalink: blog/{{ page.fileSlug }}/index.html
 ---
 In the winter of 2024, I was published in the [Journal of the Progressive Education Network](https://issuu.com/progressiveeducationnetwork0/docs/2024.02_pen) (pg. 18-21) and reposted on the [Math For Love blog.](https://mathforlove.com/2024/03/math-magic/)
 
-I'd love to share with you all my journey learning about how to do math better. 
+I'd love to share with you all my journey learning about how to teach math better. 
 
 ### Math Magic
 
