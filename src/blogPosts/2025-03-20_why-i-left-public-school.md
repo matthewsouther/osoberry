@@ -27,7 +27,7 @@ The truth is, my teaching philosophy is not valued in public school. *Teachers* 
 
 Do I have to fall on the sword of public school or can I create something worth being inspired by? 
 
-#### **I was at a crossroads last year**
+### **I was at a crossroads last year**
 
 I had been teaching part-time at a homeschool resource center and homeschooling my son after our public school couldn’t support him. We were ready as a family for the next stage of our lives together. And part of that meant it was time for me to get into the classroom full-time. 
 
