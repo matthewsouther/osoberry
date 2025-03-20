@@ -59,7 +59,7 @@ Then there’s the supplies you pay for out-of-pocket. Because you’re passiona
 
 ![](/assets/uploads/copy-of-copy-of-copy-of-photobanner.png)
 
-When I entered my first public school teaching position–a kindergarten classroom in a large district–there was no rug for the kids to sit on. In kindergarten, the rug is the meeting place for the community–it’s the center of the kindergarten world. It’s where read-alouds, and discussions, and games, and *learning* happen. If I wanted a rug for my kids, I had to independently make it happen, either with my own funds or by badgering parents for donations. 
+When I entered my first public school teaching position–a kindergarten classroom in a large district–there was no rug for the kids to sit on. In kindergarten, the rug is the meeting place for the community–it’s the center of the kindergarten world. It’s where read-alouds, and discussions, and games, and *learning* happens. If I wanted a rug for my kids, I had to independently make it happen, either with my own funds or by badgering parents for donations. 
 
 Then at the end of a grueling year, **you’re fired.** 
 
