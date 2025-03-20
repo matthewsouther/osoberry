@@ -79,7 +79,7 @@ As far as I can tell, most other career paths hire you into positions with the a
 
 After months of turmoil and fighting, I was able to save my job only by a legal loophole–the position they were going to transfer me to required a credential I don’t have. 
 
-So last year it was time for me to decide if I would head back into that broken system again. 
+**So last year it was time for me to decide if I would head back into that broken system again.** 
 
 And my brain and body said–no. 
 
