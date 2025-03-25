@@ -28,7 +28,7 @@ eleventyNavigation:
 
 * Three mixed age classes: younger, middle, older; spanning ages 5-11. 
 * Max class size for each group: 14 kids
-* Flexible pick up time from 3-5pm to support working families
+* Flexible pick up time from 3-5pm to support working families included with tuition
 * Specialist teachers for music, art, and nature
 
 ## Tuition
