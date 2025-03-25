@@ -9,13 +9,9 @@ eleventyNavigation:
 ---
 ## We offer rolling admission for open spaces throughout the year.
 
-### **We currently have two openings in the 2024/25 class.**
-
 ![](/assets/uploads/untitled-design-29-.png)
 
-View our 2024/25 "soft start" calendar here: [2024/25 School Calendar](https://docs.google.com/document/d/1i7rlPKHpC0M7biY7v0tlSrIDW7Pl_Y81ORtRtDdLRAM/edit?usp=sharing)
-
-Our 2025/26 calendar will be posted soon.
+[](https://docs.google.com/document/d/1i7rlPKHpC0M7biY7v0tlSrIDW7Pl_Y81ORtRtDdLRAM/edit?usp=sharing)Our 2025/26 calendar will be posted soon.
 
 ## 2025/26 School Year Details
 
@@ -25,7 +21,7 @@ Our 2025/26 calendar will be posted soon.
 * Two teachers, one full-time, one part-time
 * A full academic curriculum that integrates art, play, the sciences, and social emotional learning
 * Small group instruction that allows for "just right" academic challenges
-* Hours: Monday-Friday 9am-3pm, with flexible drop-off from 8:30-9am
+* Hours: Monday-Friday 9am-3pm, with flexible drop-off from 8:30-9am; Optional add-on care from 3-5pm 
 * School Year: An extended school year running September-July for stable childcare and reduced "summer slide"[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
@@ -39,8 +35,11 @@ Our 2025/26 calendar will be posted soon.
 
 We do not currently have financial aid available. There is a 10% sibling discount.
 
-* **2024/25 Tuition:** $700/month for 11 months; **M/W/TH**, 9am-2:30pm; includes all supplies
-* **2025/26 tuition:** $13,200 split evenly over 12 months ($1100/month); **M-F**, 8:30am-3pm; includes all supplies
+* **2025/26 tuition** 
+
+  * **$13,200** split evenly over 12 months ($1100/month, Aug.-July); **M-F**, 8:30am-3pm; includes all supplies
+  * One-time $150 registration fee
+  * **Optional:** $300/month for care from 3-5pm 
 
 ## Admissions Process
 
@@ -50,7 +49,7 @@ Our admissions process is thoughtfully designed to ensure admitted families will
 2. Complete the **[application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit)** and pay a $100 application fee. 
 3. Visit in-person with your child for an **informal interview** with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. 
 4. Schedule a **visit day** for your child to visit the class. This is a drop-off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they may have a shortened day.
-5. We will contact you regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
+5. We will contact you within 1-2 weeks regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
 
 ### When making enrollment decisions we are looking for:
 
