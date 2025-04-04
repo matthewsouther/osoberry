@@ -8,9 +8,11 @@ eleventyNavigation:
   parent: About
   order: 5
 ---
-### Current Positions
+# Current Positions
 
-#### Youngers Teacher - Full-Time 
+![](/assets/uploads/we’re-hiring-.png)
+
+### Youngers Teacher - Full-Time 
 
 The Youngers Teacher is a new position for our growing school. The Youngers Teacher will be responsible for implementing a playful K/1 math and literacy curriculum in addition to a mixed-age group (K-3rd) for art, science and social studies during theme study projects. In addition to providing high-quality academics, we are play advocates and believe in offering unstructured playtime every day. We’re excited to grow our team with an innovative and experienced teacher who adores five- and six-year-olds. 
 
