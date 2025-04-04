@@ -3,7 +3,7 @@ title: Home
 layout: base
 tags: topnav
 ---
-# \*\*Still Accepting Applications for the 2025/26 School Year\*\*
+# \*\*Accepting Applications for the 2025/26 School Year\*\*
 
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
