@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Current Positions
 
-![](/assets/uploads/we’re-hiring-.png)
+![](/assets/uploads/copy-of-we’re-hiring-1000-x-500-px-.png)
 
 ### Youngers Teacher - Full-Time 
 
