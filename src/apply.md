@@ -46,7 +46,7 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 Our admissions process is thoughtfully designed to ensure admitted families will be successful at Osoberry School. Our environment isn't right for every child or family. We use the following exploratory process to collaboratively decide if your child will be successful in our program.
 
 1. **[Schedule a call](https://calendly.com/emily-u8ex/osoberry-school-info-session)** with Osoberry School Director, Emily Souther. This adults-only conversation is a chance to learn more about the program and ask questions.
-2. Complete the **[application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit)** and pay a $100 application fee. 
+2. Complete the **[application](https://docs.google.com/forms/d/1z6vYODLf0fMiU4QmmeVS1j7qAEgL7W4NZ8mBZ_2A-84/edit)** and teacher recommendation form; Pay a $100 application fee. 
 3. Visit in-person with your child for an **informal interview** with the Director. This is a chance for us to get to know your child, and for your child to get to know us. It's very important to Osoberry School that the kids who attend are excited to join our community. 
 4. Schedule a **visit day** for your child to visit the class. This is a drop-off day for your child to experience how we learn at Osoberry School. If your child is not yet 5 years old, they may have a shortened day.
 5. We will contact you within 1-2 weeks regarding your enrollment. If accepted, you will have three days to sign the enrollment contract and pay a deposit to hold your spot.
