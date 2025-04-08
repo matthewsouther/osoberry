@@ -17,19 +17,19 @@ eleventyNavigation:
 
 2025/26 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year:
 
-* One class of 5-8 year olds with 8-12 kids
-* Two teachers, one full-time, one part-time
-* A full academic curriculum that integrates art, play, the sciences, and social emotional learning
-* Small group instruction that allows for "just right" academic challenges
-* Hours: Monday-Friday 9am-3pm, with flexible drop-off from 8:30-9am; Optional add-on care from 3-5pm 
-* School Year: An extended school year running September-July for stable childcare and reduced "summer slide"[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+* **One class** of 5-8 year olds with 8-12 kids
+* **Two teachers on site**
+* A **full academic curriculum** that integrates art, play, the sciences, and social emotional learning
+* **Small group instruction** that allows for "just right" academic challenges
+* Hours: **Monday-Friday 8:30am-3pm**; Optional **add-on care from 3-5pm** 
+* School Year: An **extended school year** running September-July for stable childcare and reduced "summer slide"[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
 
-* Three mixed age classes: younger, middle, older; spanning ages 5-11. 
-* Max class size for each group: 14 kids
-* Flexible pick up time from 3-5pm to support working families included with tuition
-* Specialist teachers for music, art, and nature
+* **Three mixed age classes**: younger, middle, older; spanning ages 5-11. 
+* **Max class size** for each group: **14 kids**
+* **Flexible pick up time** from 3-5pm to support working families included with tuition
+* **Specialist teachers** for music, art, and nature
 
 ## Tuition
 
@@ -37,9 +37,9 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 
 * **2025/26 tuition** 
 
-  * **$13,200** split evenly over 12 months ($1100/month, Aug.-July); **M-F**, 8:30am-3pm; includes all supplies
-  * One-time $150 registration fee
-  * **Optional:** $300/month for care from 3-5pm 
+  * **$13,200** - We have more days and a lower tuition than other schools
+  * **One-time** $150 registration fee
+  * **Optional:**  Add-on care from 3-5pm 
 
 ## Admissions Process
 
