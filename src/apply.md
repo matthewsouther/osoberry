@@ -11,9 +11,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/untitled-design-29-.png)
 
-[](https://docs.google.com/document/d/1i7rlPKHpC0M7biY7v0tlSrIDW7Pl_Y81ORtRtDdLRAM/edit?usp=sharing)Our 2025/26 calendar will be posted soon.
-
-## 2025/26 School Year Details
+### [](https://docs.google.com/document/d/1i7rlPKHpC0M7biY7v0tlSrIDW7Pl_Y81ORtRtDdLRAM/edit?usp=sharing)2025/26 School Year Details
 
 2025/26 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year:
 
@@ -22,7 +20,8 @@ eleventyNavigation:
 * A **full academic curriculum** that integrates art, play, the sciences, and social emotional learning
 * **Small group instruction** that allows for "just right" academic challenges
 * Hours: **Monday-Friday 8:30am-3pm**; Optional **add-on care from 3-5pm** 
-* School Year: An **extended school year** running September-July for stable childcare and reduced "summer slide"[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
+* School Year: An **extended school year** running September-July for stable childcare and reduced "summer slide"
+* [2025/26 School Year Calendar](https://drive.google.com/file/d/1-4et8Ko5mdSBjHr8e2A7uTtnvHJdKB2S/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
 ### In future years you can expect:
 
