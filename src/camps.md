@@ -12,8 +12,6 @@ eleventyNavigation:
 
 ![](/assets/uploads/copy-of-tinker-time-workshop.png)
 
-### **[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)** 
-
 **Details:** 
 
 Each week will include a daily rhythm with a balance of structured and unstructured time. Our days will be filled with games, outdoor play, dedicated activities based on that week's theme and free choice play. Thursdays are a dedicated nature day where we walk to Laurelhurst Park for nature crafts and play. 
@@ -39,6 +37,8 @@ Space is limited! We have an enrollment cap of six kids per week.
 **Week 4 - July 14-17: Tinker Time Engineering - (1 space left)**
 
 **Week 5 - July 21-24: Art Explorations - (1 space left)**
+
+### **[Sign up here!](<>)** 
 
 **Cancelation Policy:** 
 
