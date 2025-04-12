@@ -32,15 +32,15 @@ Space is limited! We have an enrollment cap of seven kids per week.
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals**
+**Week 1 - June 23-26: All About Animals - (1 space left)**
 
-**Week 2 - June 30-July 3: Lotions and Potions**
+**Week 2 - June 30-July 3: Lotions and Potions - (1 space left)**
 
-**Week 3 - July 7-10: Craft Creations**
+**Week 3 - July 7-10: Craft Creations - (1 space left)**
 
-**Week 4 - July 14-17: Tinker Time Engineering**
+**Week 4 - July 14-17: Tinker Time Engineering - (1 space left)**
 
-**Week 5 - July 21-24: Art Explorations**
+**Week 5 - July 21-24: Art Explorations - (1 space left)**
 
 **Cancelation Policy:** 
 
