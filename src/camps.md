@@ -28,7 +28,7 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Location:** Osoberry School 4433 E Burnside St. Portland
 
-Space is limited! We have an enrollment cap of seven kids per week. 
+Space is limited! We have an enrollment cap of six kids per week. 
 
 **Themes by week:**
 
