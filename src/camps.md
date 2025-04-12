@@ -12,9 +12,7 @@ eleventyNavigation:
 
 ![](/assets/uploads/copy-of-tinker-time-workshop.png)
 
-#### Sign ups posted April 12th at 8am
-
-**[Join ](http://eepurl.com/iOiTlM)[our mailing list](http://eepurl.com/iOiTlM) to be the first to hear updates about camps and other Osoberry events.**
+### **[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)** 
 
 **Details:** 
 
