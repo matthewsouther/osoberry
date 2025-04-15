@@ -28,7 +28,7 @@ Space is limited! We have an enrollment cap of six kids per week.
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals - (1 space left)**
+**Week 1 - June 23-26: All About Animals - (FULL - sign up for waitlist below)**
 
 **Week 2 - June 30-July 3: Lotions and Potions - (1 space left)**
 
@@ -38,7 +38,7 @@ Space is limited! We have an enrollment cap of six kids per week.
 
 **Week 5 - July 21-24: Art Explorations - (1 space left)**
 
-### **[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)** 
+### **[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
 **Cancelation Policy:** 
 
