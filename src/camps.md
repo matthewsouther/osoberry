@@ -34,7 +34,7 @@ Space is limited! We have an enrollment cap of six kids per week.
 
 **Week 3 - July 7-10: Craft Creations - (1 space left)**
 
-**Week 4 - July 14-17: Tinker Time Engineering - (1 space left)**
+**Week 4 - July 14-17: Tinker Time Engineering - (FULL - sign up for waitlist below)**
 
 **Week 5 - July 21-24: Art Explorations - (1 space left)**
 
