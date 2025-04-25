@@ -10,6 +10,8 @@ eleventyNavigation:
 ---
 # Events
 
+### Nature Playdate
+
 Join us for a Nature Playdate at Mt Tabor Park! Crafts and snacks will be provided. 
 
 [RSVP](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
@@ -18,6 +20,12 @@ Join us for a Nature Playdate at Mt Tabor Park! Crafts and snacks will be provid
 
 [](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
 
-[](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
+### PDX Parent Festival at Topaz Farms
 
-[](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
+Come find Osoberry School at the PDX Parent Family Festival! 
+
+June 21, 2025 from 9am-2pm at Topaz Farms on Sauvie Island
+
+[Learn More](https://pdxparent.com/family-festival/)[](https://pdxparent.com/family-festival/)
+
+![](/assets/uploads/june-21-.png)
