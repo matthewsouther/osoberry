@@ -10,6 +10,14 @@ eleventyNavigation:
 ---
 # Events
 
-*No events currently posted... Stay tuned!* [](https://docs.google.com/forms/d/1_5pOMW4gDn-qOqp6X6-1HcX2mlmYkehuaS2Y5bn7AOI/edit)
+Join us for a Nature Playdate at Mt Tabor Park! Crafts and snacks will be provided. 
 
-![]()
+[RSVP](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
+
+![](/assets/uploads/osoberry-playdate.png)
+
+[](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
+
+[](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
+
+[](https://docs.google.com/forms/d/1UWT6HqArYHAkGiQjG9cDSM6gsuRjTQsGgdp_KGwEhXA/edit)
