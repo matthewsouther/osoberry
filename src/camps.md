@@ -24,21 +24,21 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Location:** Osoberry School 4433 E Burnside St. Portland
 
-Space is limited! We have an enrollment cap of six kids per week. 
+All camps are currently FULL. You can sign up for the waitlist below.
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals - (FULL - sign up for waitlist below)**
+**Week 1 - June 23-26: All About Animals - (FULL)**
 
-**Week 2 - June 30-July 3: Lotions and Potions - (1 space left)**
+**Week 2 - June 30-July 3: Lotions and Potions - (FULL)**
 
-**Week 3 - July 7-10: Craft Creations - (1 space left)**
+**Week 3 - July 7-10: Craft Creations - (FULL)**
 
-**Week 4 - July 14-17: Tinker Time Engineering - (FULL - sign up for waitlist below)**
+**Week 4 - July 14-17: Tinker Time Engineering - (FULL)**
 
-**Week 5 - July 21-24: Art Explorations - (1 space left)**
+**Week 5 - July 21-24: Art Explorations - (FULL)**
 
-### **[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
+### **[Sign up for waitlist](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
 **Cancelation Policy:** 
 
