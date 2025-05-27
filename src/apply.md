@@ -36,7 +36,7 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 
 * **2025/26 tuition** 
 
-  * **$13,200** - We have more days and a lower tuition than other schools
+  * **$13,200** - 30% less than other private schools
   * **One-time** $200 registration fee
   * **Optional:**  Add-on care from 3-5pm 
 
