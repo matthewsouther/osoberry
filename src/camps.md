@@ -28,26 +28,26 @@ All camps are currently FULL. You can sign up for the waitlist below.
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals - (FULL)**
+**Week 1 - June 23-26: All About Animals - (1 Space Left)**
 
-**Week 2 - June 30-July 3: Lotions and Potions - (FULL)**
+**Week 2 - June 30-July 3: Lotions and Potions - (2 Spaces Left)**
 
 **Week 3 - July 7-10: Craft Creations - (FULL)**
 
-**Week 4 - July 14-17: Tinker Time Engineering - (FULL)**
+**Week 4 - July 14-17: Tinker Time Engineering - (1 Space Left)**
 
 **Week 5 - July 21-24: Art Explorations - (FULL)**
 
 ### **[Sign up for waitlist](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
-**Cancelation Policy:** 
+**Cancellation Policy:** 
 
-Cancelations made in April will receive a full refund.
+Cancellations made in April will receive a full refund.
 
-Cancelations made in May will receive a 60% refund.
+Cancellations made in May will receive a 60% refund.
 
-Cancelations made June through one week before camp date will receive a 40% refund.
+Cancellations made June through one week before camp date will receive a 40% refund.
 
-Cancelations made one week or less before camp will receive no refund. 
+Cancellations made one week or less before camp will receive no refund. 
 
 *\*You can transfer to another available week at no cost*
