@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # About the Teachers
 
-### Emily Souther, Board President, Founder & Head Teacher
+### Emily Souther, Board President, Founder & Olders Teacher
 
 ![](/assets/uploads/emilypic.jpeg)
 
