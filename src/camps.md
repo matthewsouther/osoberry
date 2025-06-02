@@ -28,13 +28,13 @@ All camps are currently FULL. You can sign up for the waitlist below.
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals - (1 Space Left)**
+**Week 1 - June 23-26: All About Animals - (2 Spaces Left)**
 
 **Week 2 - June 30-July 3: Lotions and Potions - (2 Spaces Left)**
 
 **Week 3 - July 7-10: Craft Creations - (FULL)**
 
-**Week 4 - July 14-17: Tinker Time Engineering - (1 Space Left)**
+**Week 4 - July 14-17: Tinker Time Engineering - (2 Spaces Left)**
 
 **Week 5 - July 21-24: Art Explorations - (FULL)**
 
