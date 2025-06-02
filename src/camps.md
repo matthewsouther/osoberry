@@ -38,7 +38,7 @@ All camps are currently FULL. You can sign up for the waitlist below.
 
 **Week 5 - July 21-24: Art Explorations - (FULL)**
 
-### **[Sign up for waitlist](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
+### **[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
 **Cancellation Policy:** 
 
