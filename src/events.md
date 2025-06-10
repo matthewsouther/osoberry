@@ -18,4 +18,4 @@ June 21, 2025 from 9am-2pm at Topaz Farms on Sauvie Island
 
 [Learn More](https://pdxparent.com/family-festival/)[](https://pdxparent.com/family-festival/)
 
-![](/assets/uploads/june-21-.png)
+![](/assets/uploads/unnamed.jpg)
