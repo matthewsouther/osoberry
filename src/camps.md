@@ -24,8 +24,6 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Location:** Osoberry School 4433 E Burnside St. Portland
 
-All camps are currently FULL. You can sign up for the waitlist below.
-
 **Themes by week:**
 
 **Week 1 - June 23-26: All About Animals - (2 Spaces Left)**
