@@ -26,7 +26,7 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Themes by week:**
 
-**Week 1 - June 23-26: All About Animals - (2 Spaces Left)**
+**Week 1 - June 23-26: All About Animals - Registration Closed**
 
 **Week 2 - June 30-July 3: Lotions and Potions - (2 Spaces Left)**
 
