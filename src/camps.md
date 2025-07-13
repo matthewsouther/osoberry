@@ -34,8 +34,6 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Week 4 - July 14-17: Tinker Time Engineering - (2 Spaces Left)**
 
-**Week 5 - July 21-24: Art Explorations - (FULL)**
-
 ### **[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
 **Cancellation Policy:** 
