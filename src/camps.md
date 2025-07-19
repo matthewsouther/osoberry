@@ -30,9 +30,9 @@ Each week will include a daily rhythm with a balance of structured and unstructu
 
 **Week 2 - June 30-July 3: Lotions and Potions - Registration Closed**
 
-**Week 3 - July 7-10: Craft Creations - (FULL)**
+**Week 3 - July 7-10: Craft Creations - Registration Closed**
 
-**Week 4 - July 14-17: Tinker Time Engineering - (2 Spaces Left)**
+**Week 4 - July 14-17: Tinker Time Engineering - Registration Closed**
 
 ### **[Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSenuED3Xbemot-PVDu4E9BYOXK_1cyOVDRo5RaoGaofytMbtQ/viewform)**
 
