@@ -10,12 +10,11 @@ layout: blog
 tags: blog
 permalink: blog/{{ page.fileSlug }}/index.html
 ---
-
 **Hey Folks -**
 
-As I was writing about the [8 Markers of a Quality Kindergarten Program](https://osoberry.school/blog/2025-03-01_new_blog/), I realized I kept coming back to this thought about the difference between high-quality and low-quality academics.
+As I was writing about the [8 Markers of a Quality Kindergarten Program](https://osoberry.school/blog/2025-03-11_8-markers-of-a-quality-kindergarten-program/), I realized I kept coming back to this thought about the difference between high-quality and low-quality academics.
 
-Over the course of my teaching career, there has been a steady movement towards increasing “instructional time.” Recess time has been getting shorter and shorter to make space for “academics.” I even taught Kindergarten at a school that told me, _“there’s no time for play.”_
+Over the course of my teaching career, there has been a steady movement towards increasing “instructional time.” Recess time has been getting shorter and shorter to make space for “academics.” I even taught Kindergarten at a school that told me, *“there’s no time for play.”*
 
 ….Yeah, that job didn’t work out for me.
 
@@ -35,7 +34,7 @@ High-quality academics take skilled teachers to implement. It’s an art and req
 
 Unfortunately, we live in a country that does not value training teachers and funding education.
 
-_“Those who can, do; those who can’t, teach.”_
+*“Those who can, do; those who can’t, teach.”*
 
 The ultimate insult to those of us who are truly passionate about teaching and educating our youth. Sayings like this make us think that teaching is easy, and lowers our standards for the teaching profession.
 
@@ -63,7 +62,7 @@ Often data collection and graphing is seen as a breezy, fun unit without much ri
 
 ### **High-Quality Graphing Unit** 
 
-In this unit, kids will work with a variety of real-world objects and experiment with different ways of displaying the information they found. First, they are given collections of shells, and asked to notice the differences between each shell. They learn that these differences are called _attributes_, and they get to sort the shells based on whatever attributes they find interesting. They learn how to break similar items into categories and make names for those categories.
+In this unit, kids will work with a variety of real-world objects and experiment with different ways of displaying the information they found. First, they are given collections of shells, and asked to notice the differences between each shell. They learn that these differences are called *attributes*, and they get to sort the shells based on whatever attributes they find interesting. They learn how to break similar items into categories and make names for those categories.
 
 After this, it’s time to play around with different ways to display the data they collected. We explore different types of graphs and also leave space for kids to display the information in new ways they create. The goal is to communicate with others the information held within their collection.
 
@@ -79,4 +78,4 @@ After this, they take action on what they learned from their data collection. Ma
 
 It doesn’t really matter what they decide to take action on. The point is they are learning how to USE data. They are asking questions, wondering, taking action and being in charge of understanding themselves and their world a little better.
 
-_That_ is high-quality academics. That is the kind of work that inspires kids and teaches real skills, not just filling in easy answers.
+*That* is high-quality academics. That is the kind of work that inspires kids and teaches real skills, not just filling in easy answers.
