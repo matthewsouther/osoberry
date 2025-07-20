@@ -20,7 +20,7 @@ But then, slowly over time, something interesting happens. They start to get use
 
 ##### They are allowed their quirks and accepted for who they are. 
 
-![](/assets/uploads/copy-of-copy-of-copy-of-copy-of-copy-of-photobanner.png)
+
 
 In exchange, kids begin to have an internal drive to show up for each other. There is an understanding of social responsibility that begins to brew and develop: I am accepted in this group and I care about staying here. I care about these people who accept me and know me, and I want to accept and know them too. 
 
@@ -32,6 +32,6 @@ When the group is small and there is a throughline of social connection from one
 
 The problem is in a large, traditional school kids don’t actually learn how to work with others. They can easily avoid those they initially don’t like and they don’t have the time or space to really get to know each other. They break off into friend groups based on instant familiarity and start to develop an “us vs. them” mentality with kids they don’t understand. Internal biases often get cemented in this environment. 
 
-##### But Osoberry School is different. 
+##### But Osoberry School is different.
 
 It’s intentionally small to create a social group the size humans can actually comprehend. It’s small enough where we can start to see the magic of social responsibility come to life. Each kid gets to be known, can’t hide in the shadows, and deeply understands the importance of showing up for each other.
