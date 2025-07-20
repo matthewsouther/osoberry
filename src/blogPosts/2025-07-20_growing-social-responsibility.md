@@ -26,7 +26,7 @@ This is something I have not seen in larger class sizes or at schools where ther
 
 When the group is small and there is a throughline of social connection from one year to the next, these deep, lasting understandings about each other can really form. When kids have a long line of experiences with the same people, and thoughtful adults that guide them through the challenges of other people’s quirks, that’s when real, meaningful social skills develop. 
 
-**I often hear people ask, “How can kids develop social skills without going to a big school? Don’t they need to learn how to deal with people they don’t like?”** 
+> **I often hear people ask, “How can kids develop social skills without going to a big school? Don’t they need to learn how to deal with people they don’t like?”** 
 
 The problem is in a large, traditional school kids don’t actually learn how to work with others. They can easily avoid those they initially don’t like and they don’t have the time or space to really get to know each other. They break off into friend groups based on instant familiarity and start to develop an “us vs. them” mentality with kids they don’t understand. Internal biases often get cemented in this environment. 
 
