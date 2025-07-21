@@ -20,6 +20,8 @@ But then, slowly over time, something interesting happens. They start to get use
 
 ### They are allowed their quirks and accepted for who they are. 
 
+![](/assets/uploads/copy-of-copy-of-copy-of-copy-of-copy-of-photobanner.png)
+
 In exchange, kids begin to have an internal drive to show up for each other. There is an understanding of social responsibility that begins to brew and develop: I am accepted in this group and I care about staying here. I care about these people who accept me and know me, and I want to accept and know them too. 
 
 This is something I have not seen in larger class sizes or at schools where there is an ongoing churning of people: new class, new kids, new teacher every year. I’m so glad to get to continue my work with these kids for multiple years. My experience in small educational settings tells me that time, space, and continuity are the missing elements in big schools. 
@@ -29,8 +31,6 @@ When the group is small and there is a throughline of social connection from one
 > **I often hear people ask, “How can kids develop social skills without going to a big school? Don’t they need to learn how to deal with people they don’t like?”** 
 
 The problem is in a large, traditional school kids don’t actually learn how to work with others. They can easily avoid those they initially don’t like and they don’t have the time or space to really get to know each other. They break off into friend groups based on instant familiarity and start to develop an “us vs. them” mentality with kids they don’t understand. Internal biases often get cemented in this environment. 
-
-![](/assets/uploads/copy-of-copy-of-copy-of-copy-of-copy-of-photobanner.png)
 
 ### But Osoberry School is different.
 
