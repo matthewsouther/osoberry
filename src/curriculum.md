@@ -16,21 +16,21 @@ Each class follows a multi-year cycle of learning as they loop with their teache
 
 We follow an extended school year from September through July to give space and time to academics and personal interests. With extra days in the year we are able to approach academics deeply, give time for concepts to settle, and relax into a day that schedules in playful downtime.
 
-[2024/25 School Calendar](https://drive.google.com/file/d/1FyhkHj7rsgk0KM3bBcQGSyNVG0sN5QLz/view?usp=sharing)
+[2025/26 School Calendar](https://drive.google.com/file/d/1-4et8Ko5mdSBjHr8e2A7uTtnvHJdKB2S/view)
 
 Sample Schedule: 
 
-|       | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday                |
-| ----- | --------------------- | --------------------- | --------------------- | --------------------- | ---------------------------- |
-| 9am   | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting              |
-| 9:30  | Math                  | Math                  | Math                  | Math                  | Art                          |
-| 10:45 | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack                        |
-| 10:45 | Literacy Block        | Literacy Block        | Literacy Block        | Literacy Block        | Walk or Drive to Park        |
-| 11:45 | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Nature Exploration           |
-| 1pm   | Read Aloud            | Read Aloud            | Read Aloud            | Read Aloud            | Nature Exploration           |
-| 1:30  | Theme Study           | Choice Time           | Theme Study           | Choice Time           | Walk or drive back to School |
-| 2:30  | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle        |
-| 3pm   | Pick Up               | Pick Up               | Pick Up               | Pick Up               | Pick Up                      |
+|       | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday         |
+| ----- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 9am   | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Meet at Park          |
+| 9:30  | Math                  | Math                  | Math                  | Math                  | Nature Exploration    |
+| 10:20 | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Guided Activities     |
+| 10:45 | Literacy Block        | Literacy Block        | Literacy Block        | Literacy Block        | Nature Play           |
+| 11:45 | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch                 |
+| 1pm   | Read Aloud            | Read Aloud            | Read Aloud            | Read Aloud            | Walk back to school   |
+| 1:30  | Theme Study           | Choice Time           | Theme Study           | Choice Time           | Choice Time           |
+| 2:30  | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle |
+| 3pm   | Pick Up               | Pick Up               | Pick Up               | Pick Up               | Pick Up               |
 
 # Curriculum Focus by Subject
 
