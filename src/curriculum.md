@@ -23,7 +23,7 @@ Sample Schedule:
 |       | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday         |
 | ----- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
 | 9am   | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Meet at Park          |
-| 9:30  | Math                  | Math                  | Math                  | Math                  | Nature Exploration    |
+| 9:30  | Math Workshop         | Math Workshop         | Math Workshop         | Math Workshop         | Nature Exploration    |
 | 10:20 | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Guided Activities     |
 | 10:45 | Literacy Block        | Literacy Block        | Literacy Block        | Literacy Block        | Nature Play           |
 | 11:45 | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch                 |
