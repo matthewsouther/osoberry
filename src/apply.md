@@ -23,12 +23,11 @@ eleventyNavigation:
 * School Year: An **extended school year** running September-July for stable childcare and reduced "summer slide"
 * [2025/26 School Year Calendar](https://drive.google.com/file/d/1-4et8Ko5mdSBjHr8e2A7uTtnvHJdKB2S/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
-### In future years you can expect:
+### As we grow:
 
-* **Three mixed age classes**: younger, middle, older; spanning ages 5-11. 
-* **Max class size** for each group: **14 kids**
+* We will grow with our **students through age 11.**  
+* Mixed age classes capped at **14 kids**
 * **Flexible pick up time** from 3-5pm to support working families included with tuition
-* **Specialist teachers** for music, art, and nature
 
 ## Tuition
 
