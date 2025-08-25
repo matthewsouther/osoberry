@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # Current Positions
 
-We are currently seeking an Afterschool Coordinator and on-call substitute teachers. Please see the job descriptions below for more information.
+We are currently seeking an Afterschool Coordinator and On-Call Substitute Teachers. Please see the job descriptions below for more information.
 
 * [Afterschool Coordinator](https://docs.google.com/document/d/1-0TCHDZgR8F0K7LFwculi0K2UkmduojnzDMeytxzYMo/edit?usp=sharing) 
 * [On-call Substitutes](https://docs.google.com/document/d/1-3k5kOVbGQjhTGWt8zdCjJ8kFGze0YBUhR9aIolBYg4/edit?usp=sharing) 
