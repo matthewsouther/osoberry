@@ -3,6 +3,8 @@ title: Home
 layout: base
 tags: topnav
 ---
+## We are currently hiring an Assistant Teacher. Please see details on the [Employment page](https://osoberry.school/employment/). 
+
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
 ## *Connection, Wellbeing, Authentic Learning*
