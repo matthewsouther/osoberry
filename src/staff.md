@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 # About the Teachers
 
-### Emily Souther, Board President, Founder & Olders Teacher
+### Emily Souther, Board President, Founder & Lead Teacher
 
 ![](/assets/uploads/emilypic.jpeg)
 
@@ -28,20 +28,6 @@ Since then I have continued to grow as an educator and have honed my “learn-by
 At the heart of my teaching philosophy is the belief that to build self-confident, happy, and excited-to-learn children, we must first meet each child where they are and allow them to explore their own ideas about how to approach a problem or learn a new concept. Children are born excited to learn and it is our most vital role as adults and educators to nurture that.
 
 I live in Northeast Portland with my husband and two sons. You'll often find us exploring nature, being silly, having dance parties, and reveling in the joy of learning.
-
-### Susan Eisman, Youngers Teacher
-
-![](/assets/uploads/susaneisman.jpg)
-
-Susan Eisman is a visionary children’s educator and community leader with 35 years of experience. Her practice includes play based education, environmental education, anti-bias education, and peace activism. 
-
-Susan fosters meaningful relationships as the foundation for all learning. She emphasizes joyful and transformative connections to promote a love of learning, appreciation of self and others, and interconnectedness with the natural world.  
-
-Susan is a fierce advocate for valuing individual learning styles, social-emotional intelligence, social problem-solving skills, and inquiry based learning. She emphasizes seasonal curriculum, daily outdoor exploration, and integrates nature into the curriculum as strategies to restore our human connection to the rest of nature. She nourishes children’s curiosity and connection with the ways we are the same and different, and talks about what’s fair and not fair to support children’s changemaker spirits within. 
-
-Partnering with children and their families brings Susan great joy. She delights in learning alongside children, and finds that children’s unique perspectives, insights and expressions are often her personal highlights at the end of the day. 
-
-When she is not facilitating activities with young people, families and teachers, you might find Susan gardening, river rafting, or curled up with her two cats and a book.  
 
 # About the Board of Directors
 
