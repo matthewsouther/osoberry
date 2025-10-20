@@ -16,10 +16,10 @@ eleventyNavigation:
 2025/26 will be our second year of operation and we are continuing to grow into our full program. Here’s what you can expect next year:
 
 * **One class** of 5-8 year olds with 8-12 kids
-* **Two teachers on site**
+* **Two teachers: one lead, one assistant**
 * A **full academic curriculum** that integrates art, play, the sciences, and social emotional learning
 * **Small group instruction** that allows for "just right" academic challenges
-* Hours: **Monday-Friday 8:30am-3pm**; Optional **add-on care from 3-5pm** 
+* Hours: **Monday-Friday 8:30am-3pm**; Optional **add-on care from 3-4:30pm** 
 * School Year: An **extended school year** running September-July for stable childcare and reduced "summer slide"
 * [2025/26 School Year Calendar](https://drive.google.com/file/d/1-4et8Ko5mdSBjHr8e2A7uTtnvHJdKB2S/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)[](https://drive.google.com/file/d/1e5TnkgaQXAiuSo9aCAyUcKmbgB2-nRxs/view?usp=sharing)
 
@@ -27,7 +27,7 @@ eleventyNavigation:
 
 * We will grow with our **students through age 11.**  
 * Mixed age classes capped at **14 kids**
-* **Flexible pick up time** from 3-5pm to support working families included with tuition
+* **Flexible pick up time** from 3-4:30pm to support working families included with tuition
 
 ## Tuition
 
@@ -37,7 +37,7 @@ We do not currently have financial aid available. There is a 10% sibling discoun
 
   * **$13,200** - 30% less than other private schools
   * **One-time** $200 registration fee
-  * **Optional:**  Add-on care from 3-5pm 
+  * **Optional:**  Add-on care from 3-4:30pm 
 
 ## Admissions Process
 
