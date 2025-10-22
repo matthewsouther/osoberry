@@ -10,7 +10,13 @@ eleventyNavigation:
 ---
 ## Osoberry School Philosophy
 
-Osoberry School is founded on a mission to provide meaning and wellbeing not just for the kids, but the teachers and families too. By focusing on the health and happiness of these three players within a school community, we provide a space to elevate the experience of everyone in our community.
+At Osoberry School we teach and lead with emotional wellbeing in mind. 
+While modern life seems to always be running too quickly, Osoberry 
+School provides a space to slow down and focus on life’s meaningful 
+connections. Utilizing discoveries in mindfulness, the science of 
+happiness, child development, and the Finnish education model, our day 
+provides kids, teachers and families with a space to experience a 
+balanced, meaningful life. 
 
 ![](/assets/uploads/copy-of-untitled-design-1-.png)
 
