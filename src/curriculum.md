@@ -20,17 +20,19 @@ We follow an extended school year from September through July to give space and 
 
 Sample Schedule: 
 
-|       | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday         |
-| ----- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
-| 9am   | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Meet at Park          |
-| 9:30  | Math Workshop         | Math Workshop         | Math Workshop         | Math Workshop         | Nature Exploration    |
-| 10:20 | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Guided Activities     |
-| 10:45 | Literacy Block        | Literacy Block        | Literacy Block        | Literacy Block        | Nature Play           |
-| 11:45 | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch/Outside Play    | Lunch                 |
-| 1pm   | Read Aloud            | Read Aloud            | Read Aloud            | Read Aloud            | Walk back to school   |
-| 1:30  | Theme Study           | Choice Time           | Theme Study           | Choice Time           | Choice Time           |
-| 2:30  | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle |
-| 3pm   | Pick Up               | Pick Up               | Pick Up               | Pick Up               | Pick Up               |
+|        | Monday                | Tuesday               | Wednesday             | Thursday              | Forest Friday         |
+| ------ | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 8:30   | Arrive and Settle     | Arrive and Settle     | Arrive and Settle     | Arrive and Settle     | Meet at Park          |
+| 9am    | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       | Morning Meeting       |
+| 9:30   | Math Workshop         | Math Workshop         | Math Workshop         | Math Workshop         | Nature Exploration    |
+| 10:20  | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Snack/Outside Play    | Guided Activities     |
+| 11am   | Literacy Block        | Literacy Block        | Literacy Block        | Literacy Block        | Nature Play           |
+| 12pm   | Lunch/Gym Time        | Lunch/Gym Time        | Lunch/Gym Time        | Lunch/Gym Time        | Lunch                 |
+| 1pm    | Read Aloud            | Read Aloud            | Read Aloud            | Read Aloud            | Walk back to school   |
+| 1:30   | Theme Study           | Choice Time           | Theme Study           | Choice Time           | Choice Time           |
+| 2:30   | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle | Jobs & Closing Circle |
+| 3pm    | Pick Up               | Pick Up               | Pick Up               | Pick Up               | Pick Up               |
+| 3-4:30 |                       | Aftercare             | Aftercare             | Aftercare             |                       |
 
 # Curriculum Focus by Subject
 
