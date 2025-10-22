@@ -5,15 +5,15 @@ tags: topnav
 ---
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
 
-## *Connection, Wellbeing, Authentic Learning*
+#### *Connection, Wellbeing, Authentic Learning*
 
-*We are prioritizing delivering education at a human scale.*
+##### *We are prioritizing delivering education at a human scale.*
 
-That means a **small, intentional** learning environment with **highly skilled teachers.** 
+##### That means a **small, intentional** learning environment with **highly skilled teachers.** 
 
-It means giving **equal importance** to **rigorous academics** and **creative playtime**. 
+##### It means giving **equal importance** to **rigorous academics** and **creative playtime**. 
 
-It means **your child will be known and cared for** and will **never fall through the cracks**. 
+##### It means **your child will be known and cared for** and will **never fall through the cracks**. 
 
 ![](/assets/uploads/untitled-design-28-.png)
 
