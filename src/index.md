@@ -13,9 +13,10 @@ That means a <span style="font-weight: bold">small, intentional</span> learning 
 
 <p style="text-align: center">It means <span style="font-weight: bold">your child will be known and cared for</span> and will <span style="font-weight: bold">never fall through the cracks.</span> </p>
 
+![](/assets/uploads/photobanner-1-.png)
 
-![](/assets/uploads/untitled-design-28-.png)
 ### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
+
 > *"We highly recommend Emily and the Osoberry School. For the first time, our son is excited to go to school. He tells us that learning at Osoberry is "fun and not boring." Emily connected with our child right away and her curriculum and teaching style is exactly what we want for our child."*
 >
 > ***\-Parent of a 7 year old Osoberry student***
