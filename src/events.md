@@ -11,3 +11,5 @@ eleventyNavigation:
 # Events
 
 *Stay tuned for new events...*
+
+### For updates and events sign up for our email list [HERE](http://eepurl.com/iOiTlM)
