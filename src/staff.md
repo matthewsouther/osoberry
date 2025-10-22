@@ -29,6 +29,12 @@ At the heart of my teaching philosophy is the belief that to build self-confiden
 
 I live in Northeast Portland with my husband and two sons. You'll often find us exploring nature, being silly, having dance parties, and reveling in the joy of learning.
 
+### Liz Kuhns, Assistant Teacher
+
+![](/assets/uploads/kuhns-bio-photo-.jpg)
+
+I’m so happy to be involved at Osoberry, and to build meaningful relationships with the students and people that bring it to life. Having recently completed my undergrad program, I was reluctant to say goodbye to school. I’ve always had a hunger for learning. While I majored in human services, I jumped on opportunities to study mythology, art, urban horticulture, and creative writing while I was at the University of Oregon. In practice, these come through in my love of storytelling, collage-making, and exploring the outdoors. I believe that one person’s passion can nurture many more, and I’m excited to be part of a community where we can share in curiosity and imagination.
+
 # About the Board of Directors
 
 ### Leah Kraskoff, Secretary
