@@ -7,13 +7,16 @@ tags: topnav
 
 ## *Connection, Wellbeing, Authentic Learning*
 
-*We are prioritizing delivering education at a human scale.*
+<div style="text-align: center">
+<div style="font-style: italic">We are delivering education at a human scale.</div>
 
 That means a **small, intentional** learning environment with **highly skilled teachers.** 
 
 It means giving **equal importance** to **rigorous academics** and **creative playtime.** 
 
 It means **your child will be known and cared for** and will **never fall through the cracks.** 
+
+</div>
 
 ![](/assets/uploads/untitled-design-28-.png)
 
