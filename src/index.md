@@ -9,9 +9,9 @@ tags: topnav
 
 <p style="font-style: italic; text-align: center">We are delivering education at a human scale.</p>
 <p style="text-align: center">
-That means a <span style="font-weight: bold">small, intentional</span>learning environment with <span style="font-weight: bold">highly skilled teachers.</span></p>
+That means a <span style="font-weight: bold">small, intentional</span> learning environment with <span style="font-weight: bold">highly skilled teachers.</span></p>
 
-<p style="text-align: center">It means giving <span style="font-weight: bold">equal importance</span> to <span style="font-weight: bold">rigorous academics</span>and <span style="font-weight: bold">creative playtime.</span></p>
+<p style="text-align: center">It means giving <span style="font-weight: bold">equal importance</span> to <span style="font-weight: bold">rigorous academics</span> and <span style="font-weight: bold">creative playtime.</span></p>
 
 <p style="text-align: center">It means <span style="font-weight: bold">your child will be known and cared for</span> and will <span style="font-weight: bold">never fall through the cracks.</span> </p>
 
