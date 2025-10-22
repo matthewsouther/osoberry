@@ -16,7 +16,7 @@ eleventyNavigation:
 
 * Certified K-6 Teacher
 * MA in Curriculum and Instruction
-* 16 years classroom teaching experience
+* 17 years classroom teaching experience
 * Parent of 2 joyful learners
 
 I am a person with many passions and a deep enthusiasm for life and learning. I explore the world through music, art, literature, science, and the outdoors, but my deepest passion—and truly my life’s work—is working with children.
