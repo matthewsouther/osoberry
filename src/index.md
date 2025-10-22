@@ -11,9 +11,9 @@ tags: topnav
 >
 > That means a **small, intentional** learning environment with **highly skilled teachers.** 
 >
-> It means giving **equal importance** to **rigorous academics** and **creative playtime**. 
+> It means giving **equal importance** to **rigorous academics** and **creative playtime.** 
 >
-> It means **your child will be known and cared for** and will **never fall through the cracks**. 
+> It means **your child will be known and cared for** and will **never fall through the cracks.** 
 
 ![](/assets/uploads/untitled-design-28-.png)
 
