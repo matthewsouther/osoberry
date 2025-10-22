@@ -7,7 +7,13 @@ tags: topnav
 
 ## *Connection, Wellbeing, Authentic Learning*
 
-At Osoberry School we teach and lead with emotional wellbeing in mind. While modern life seems to always be running too quickly, Osoberry School provides a space to slow down and focus on life’s meaningful connections. Utilizing discoveries in mindfulness, the science of happiness, child development, and the Finnish education model, our day provides kids, teachers and families with a space to experience a balanced, meaningful life.
+*We are prioritizing delivering education at a human scale.*
+
+That means a **small, intentional** learning environment with **highly skilled teachers.** 
+
+It means giving **equal importance** to **rigorous academics** and **creative playtime**. 
+
+It means **your child will be known and cared for** and will **never fall through the cracks**. 
 
 ![](/assets/uploads/untitled-design-28-.png)
 
