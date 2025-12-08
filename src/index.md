@@ -3,6 +3,12 @@ title: Home
 layout: base
 tags: topnav
 ---
+# *Due to lack of funding, Osoberry School will close it's doors in January 2026.* 
+
+*We worked hard, built a vision, and witnessed a beautiful space to learn and play. We will end our time together with sweet memories and new friendships.* 
+
+# *\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
+
 ## *Connection, Wellbeing, Authentic Learning*
 
 <p style="font-style: italic; text-align: center">We are delivering education at a human scale.</p>
