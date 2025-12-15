@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-# Due to lack of funding, we are closing our doors in December 2026.
+# Due to insufficient funding, we are closing our doors in December 2026.
 
 ![](/assets/uploads/untitled-design-29-.png)
 
