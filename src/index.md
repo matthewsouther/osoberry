@@ -3,7 +3,7 @@ title: Home
 layout: base
 tags: topnav
 ---
-# *Due to insufficient funding, Osoberry School will close its doors in December 2026.*
+# *Due to insufficient funding, Osoberry School closed its doors in December 2025.*
 
 *We worked hard, built a vision, and witnessed a beautiful space to learn and play. We will end our time together with sweet memories and new friendships.* 
 
