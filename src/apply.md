@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Apply
   order: 5
 ---
-# Due to insufficient funding, we are closing our doors in December 2026.
+# Due to insufficient funding, Osoberry School closed its doors in December 2025.
 
 ![](/assets/uploads/untitled-design-29-.png)
 
